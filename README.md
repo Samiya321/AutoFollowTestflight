@@ -72,6 +72,7 @@
 | Name | Url | Available | Date |
 | --- | --- | --- | -- |
 | 笔趣阁 | [https://testflight.apple.com/join/BkCvkK4J](https://testflight.apple.com/join/BkCvkK4J) | Y | 2022-07-12 |
+| 懒猫记账Pro-无广告、1秒启动 | [https://testflight.apple.com/join/xwzUqbC9](https://testflight.apple.com/join/xwzUqbC9) | Y | 2022-07-12 |
 | biubiu加速器 | [https://testflight.apple.com/join/Fk8KzSnv](https://testflight.apple.com/join/Fk8KzSnv) | N | 2022-03-15 |
 | DAMA | [https://testflight.apple.com/join/q7EMTnCR](https://testflight.apple.com/join/q7EMTnCR) | N | 2022-05-21 |
 | XMind | [https://testflight.apple.com/join/5Z2wXADj](https://testflight.apple.com/join/5Z2wXADj) | N | 2022-03-15 |
