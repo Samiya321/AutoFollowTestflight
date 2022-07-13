@@ -82,6 +82,7 @@
 | 首宿漫画 | [https://testflight.apple.com/join/rMzS8eIw](https://testflight.apple.com/join/rMzS8eIw) | N | 2022-07-12 |
 | 今日热榜 | [https://testflight.apple.com/join/iW7rBi1G](https://testflight.apple.com/join/iW7rBi1G) | N | 2022-07-12 |
 | 源阅读 | [https://testflight.apple.com/join/2Svrtr9y](https://testflight.apple.com/join/2Svrtr9y) | N | 2022-07-12 |
+| 蛋播星球 | [https://testflight.apple.com/join/TKsSfDlT](https://testflight.apple.com/join/TKsSfDlT) | N | 2022-07-13 |
 
 
 ## macOS App List (macOS 12)
