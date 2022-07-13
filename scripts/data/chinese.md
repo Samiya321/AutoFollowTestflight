@@ -16,3 +16,4 @@
 | 源阅读 | [https://testflight.apple.com/join/2Svrtr9y](https://testflight.apple.com/join/2Svrtr9y) | N | 2022-07-12 |
 | 蛋播星球 | [https://testflight.apple.com/join/TKsSfDlT](https://testflight.apple.com/join/TKsSfDlT) | N | 2022-07-13 |
 | 物品清单 | [https://testflight.apple.com/join/gS7YNrK7](https://testflight.apple.com/join/gS7YNrK7) | N | 2022-07-13 |
+| 爱阅书香 | [https://testflight.apple.com/join/LUVtmAeL](https://testflight.apple.com/join/LUVtmAeL) | N | 2022-07-13 |
