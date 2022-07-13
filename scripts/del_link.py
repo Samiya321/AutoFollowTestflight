@@ -1,11 +1,9 @@
 #!/usr/bin/python
 '''
-Author       : tom-snow
-Date         : 2022-03-16 19:32:32
-LastEditTime : 2022-04-24 17:27:30
-LastEditors  : tom-snow
+Author       : samiya
+LastEditors  : samiya
 Description  : 
-FilePath     : /awesome-testflight-link/scripts/del_link.py
+FilePath     : /AutoFollowTestflight/scripts/del_link.py
 '''
 
 import sqlite3

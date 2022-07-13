@@ -1,11 +1,9 @@
 #!/usr/bin/python
 '''
-Author       : tom-snow
-Date         : 2022-03-17 11:32:32
-LastEditTime : 2022-03-17 12:17:34
-LastEditors  : tom-snow
+Author       : samiya
+LastEditors  : samiya
 Description  : 
-FilePath     : /awesome-testflight-link/scripts/order_status.py
+FilePath     : /AutoFollowTestflight/scripts/order_status.py
 '''
 
 import sqlite3

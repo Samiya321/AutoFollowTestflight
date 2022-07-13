@@ -1,11 +1,9 @@
 #!/usr/bin/python
 '''
-Author       : tom-snow
-Date         : 2022-03-15 13:47:49
-LastEditTime : 2022-04-24 17:26:29
-LastEditors  : tom-snow
+Author       : samiya
+LastEditors  : samiya
 Description  : 自动更新各 TestFlight 公共链接当前的状态并更新文档
-FilePath     : /awesome-testflight-link/scripts/update_status.py
+FilePath     : /AutoFollowTestflight/scripts/update_status.py
 '''
 
 import sqlite3

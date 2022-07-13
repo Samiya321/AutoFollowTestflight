@@ -1,11 +1,9 @@
 #!/usr/bin/python
 '''
-Author       : tom-snow
-Date         : 2022-03-14 19:56:48
-LastEditTime : 2022-03-17 13:36:08
-LastEditors  : tom-snow
+Author       : samiya
+LastEditors  : samiya
 Description  : 将 markdown 表格中的数据导入 sqlite3 （正常情况下你不需要运行此脚本，因为我已经建立好数据库了）
-FilePath     : /awesome-testflight-link/scripts/init_database.py
+FilePath     : /AutoFollowTestflight/scripts/init_database.py
 '''
 
 import sqlite3
