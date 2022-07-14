@@ -43,7 +43,7 @@ jobs:
 
 
       - name: Send Email
-        if: $git_diff != ""
+        if: git_diff != ""
         uses: dawidd6/action-send-mail@master
         with:
           server_address: smtp.163.com
