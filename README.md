@@ -13,6 +13,7 @@
 | Wikipedia | [https://testflight.apple.com/join/Z0AU0KXC](https://testflight.apple.com/join/Z0AU0KXC) | Y | 2022-07-12 |
 | Notion | [https://testflight.apple.com/join/YSo8aVCS](https://testflight.apple.com/join/YSo8aVCS) | Y | 2022-07-12 |
 | GitViewer | [https://testflight.apple.com/join/ncv5nOkt](https://testflight.apple.com/join/ncv5nOkt) | Y | 2022-07-12 |
+| The New York Times | [https://testflight.apple.com/join/gfiSREAr](https://testflight.apple.com/join/gfiSREAr) | Y | 2022-07-14 |
 | Endel: Focus, Sleep, Relax | [https://testflight.apple.com/join/PvRJtU2f](https://testflight.apple.com/join/PvRJtU2f) | Y | 2022-07-12 |
 | 1Blocker | [https://testflight.apple.com/join/KjmVWFnT](https://testflight.apple.com/join/KjmVWFnT) | F | 2022-07-12 |
 | 1Password - Password Manager | [https://testflight.apple.com/join/flDiG5AU](https://testflight.apple.com/join/flDiG5AU) | F | 2022-07-14 |
@@ -23,7 +24,6 @@
 | Telegram Messenger | [https://testflight.apple.com/join/u6iogfd0](https://testflight.apple.com/join/u6iogfd0) | F | 2022-07-13 |
 | OffScreen - Less Screen Time | [https://testflight.apple.com/join/Lsk0kvr2](https://testflight.apple.com/join/Lsk0kvr2) | F | 2022-07-12 |
 | PicsArt | [https://testflight.apple.com/join/d4gDz5s7](https://testflight.apple.com/join/d4gDz5s7) | F | 2022-07-12 |
-| The New York Times | [https://testflight.apple.com/join/gfiSREAr](https://testflight.apple.com/join/gfiSREAr) | F | 2022-07-12 |
 | MindNode - Mind Map &amp; Outline | [https://testflight.apple.com/join/hjfUVaaX](https://testflight.apple.com/join/hjfUVaaX) | F | 2022-07-12 |
 | A.BIG.T IV | [https://testflight.apple.com/join/3aArQFMQ](https://testflight.apple.com/join/3aArQFMQ) | N | 2022-03-15 |
 | AdGuard | [https://testflight.apple.com/join/XqF1FkBg](https://testflight.apple.com/join/XqF1FkBg) | N | 2022-06-21 |
