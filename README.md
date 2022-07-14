@@ -62,7 +62,6 @@
 | Fileball | [https://testflight.apple.com/join/MzzsLpIt](https://testflight.apple.com/join/MzzsLpIt) | N | 2022-07-13 |
 | Noteshelf  | [https://testflight.apple.com/join/PRoaQgCP](https://testflight.apple.com/join/PRoaQgCP) | N | 2022-07-13 |
 
-
 ## Chinese App
 
 | Name | Url | Available | Date |
@@ -82,7 +81,6 @@
 | 物品清单 | [https://testflight.apple.com/join/gS7YNrK7](https://testflight.apple.com/join/gS7YNrK7) | N | 2022-07-13 |
 | 爱阅书香 | [https://testflight.apple.com/join/LUVtmAeL](https://testflight.apple.com/join/LUVtmAeL) | N | 2022-07-13 |
 
-
 ## macOS App List (macOS 12)
 
 | Name | Url | Available | Date |
@@ -95,16 +93,13 @@
 | MiaoProject | [https://testflight.apple.com/join/MuMvoZyv](https://testflight.apple.com/join/MuMvoZyv) | N | 2022-07-12 |
 | MiaoProject_2 | [https://testflight.apple.com/join/jk6ueB8x](https://testflight.apple.com/join/jk6ueB8x) | N | 2022-07-12 |
 
-
 ## Signup Links
 
 |             Name             |                    URL                     |
 | :--------------------------: | :----------------------------------------: |
-| 1Password - Password Manager | https://testflight.apple.com/join/flDiG5AU |
-| Shu - Magic File Viewer beta | https://testflight.apple.com/join/4nss4sdk |
+| 1Password - Password Manager | <https://testflight.apple.com/join/flDiG5AU> |
+| Shu - Magic File Viewer beta | <https://testflight.apple.com/join/4nss4sdk> |
 |                              |                                            |
-
-
 
 ## iOS/iPad OS Game List
 
