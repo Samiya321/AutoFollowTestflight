@@ -35,7 +35,7 @@ jobs:
       - name: Git commit && push
         run: |
           git_diff=`git diff`
-          git_diff_test=`git diff README.md`
+          echo `git diff README.md` >git_diff.txt
           if [ -z "$git_diff" ]; then echo "Nothing Changed";exit; fi
           git config --global user.email "github_bot@noreply.github.com"
           git config --global user.name "github_bot"
@@ -54,7 +54,7 @@ jobs:
             to: vemodalen01@outlook.com
             from: GitHub Actions
             secure: true
-            body: "$git_diff_test"
+            body: file://git_diff.txt
             convert_markdown: true
             
             
