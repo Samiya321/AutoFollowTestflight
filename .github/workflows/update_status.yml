@@ -2,7 +2,7 @@ name: Update TestFilght Link Status
 
 on:
   schedule:
-    - cron: '0 */2 * * *'
+    - cron: '30 * * * *'
   workflow_dispatch:
     inputs:
       python_version:
@@ -33,11 +33,26 @@ jobs:
         run: |
           git_diff=`git diff`
           if [ -z "$git_diff" ]; then echo "Nothing Changed";exit; fi
+          git diff README.md | grep -P '^\+(?:(?!\+\+))|^-(?:(?!--))' | sed -e 's/([^()]*)//g' > git_diff_1.md
+          echo "NAME=$(awk '{print $2}' git_diff_1.md | tr -s "\n" "、")" >>  $GITHUB_ENV
           git config --global user.email "github_bot@noreply.github.com"
           git config --global user.name "github_bot"
           git add .
           git commit -m "Github Action Auto Updated - `date`"
           git push
-          
+
+      - name: Send Email
+        uses: dawidd6/action-send-mail@master
+        with:
+          server_address: smtp.163.com
+          server_port: 465
+          username: ${{secrets.MAIL_USERNAME}}
+          password: ${{secrets.MAIL_PASSWORD}}
+          subject:  (${{env.NAME}}) TestFlight Update  
+          to: vemodalen01@outlook.com
+          from: GitHub Actions
+          secure: true
+          body: file://git_diff_1.md
+          convert_markdown: true                
 
           
