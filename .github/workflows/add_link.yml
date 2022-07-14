@@ -35,6 +35,7 @@ jobs:
       - name: Git commit && push
         run: |
           git_diff=`git diff`
+          git_diff_test=`git diff README.md`
           if [ -z "$git_diff" ]; then echo "Nothing Changed";exit; fi
           git config --global user.email "github_bot@noreply.github.com"
           git config --global user.name "github_bot"
@@ -50,10 +51,10 @@ jobs:
             username: ${{secrets.MAIL_USERNAME}}
             password: ${{secrets.MAIL_PASSWORD}}
             subject: TestFlight Status Update
-            to: 1206365476@qq.com
+            to: vemodalen01@outlook.com
             from: GitHub Actions
             secure: true
-            body: Build job of ${{github.repository}} completed successfully!
+            body: "$git_diff_test"
             convert_markdown: true
             
             
