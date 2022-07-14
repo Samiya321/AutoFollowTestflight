@@ -35,24 +35,10 @@ jobs:
       - name: Git commit && push
         run: |
           git_diff=`git diff`
-          git diff README.md | grep -P '^\+(?:(?!\+\+))|^-(?:(?!--))' >git_diff.md
           if [ -z "$git_diff" ]; then echo "Nothing Changed";exit; fi
           git config --global user.email "github_bot@noreply.github.com"
           git config --global user.name "github_bot"
           git add .
           git commit -m "Add A New Link"
-
-      - name: Send Email
-        uses: dawidd6/action-send-mail@master
-        with:
-            server_address: smtp.163.com
-            server_port: 465
-            username: ${{secrets.MAIL_USERNAME}}
-            password: ${{secrets.MAIL_PASSWORD}}
-            subject: TestFlight Status Update
-            to: vemodalen01@outlook.com
-            from: GitHub Actions
-            secure: true
-            body: file://git_diff.md      
-            convert_markdown: true
+          git push
           
