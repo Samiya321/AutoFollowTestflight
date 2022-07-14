@@ -19,13 +19,16 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v2
+
       - name: Set up Python
         uses: actions/setup-python@v2
         with:
           python-version: '3.8'
           architecture: x64
+
       - name: Init Python Env
         run: pip install -r scripts/requirements.txt
+
       - name: Add A TestFilght Link
         run: python scripts/add_link.py "${{ github.event.inputs.testflight_link }}" "${{ github.event.inputs.table }}" "${{ github.event.inputs.app_name }}"
 
@@ -38,3 +41,20 @@ jobs:
           git add .
           git commit -m "Add A New Link"
           git push
+
+      -name: Send Email
+       uses: dawidd6/action-send-mail@master
+         with:
+            server_address: smtp.163.com
+            server_port: 465
+            username: ${{secrets.MAIL_USERNAME}}
+            password: ${{secrets.MAIL_PASSWORD}}
+            subject: TestFlight Status Update
+            to: 1206365476@qq.com
+            from: GitHub Actions
+            secure: true
+            body: Build job of ${{github.repository}} completed successfully!
+            convert_markdown: true
+            
+            
+
