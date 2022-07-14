@@ -33,11 +33,31 @@ jobs:
         run: python scripts/add_link.py "${{ github.event.inputs.testflight_link }}" "${{ github.event.inputs.table }}" "${{ github.event.inputs.app_name }}"
 
       - name: Git commit && push
+        env:
+          Status: Fail
         run: |
           git_diff=`git diff`
+          git diff README.md | grep -P '^\+(?:(?!\+\+))' | sed -e 's/([^()]*)//g' |  sed 's/.//' > git_diff_1.md
+          echo "NAME=$(awk '{print $2}' git_diff_1.md | tr -s "\n" "/")" >>  $GITHUB_ENV
           if [ -z "$git_diff" ]; then echo "Nothing Changed";exit; fi
           git config --global user.email "github_bot@noreply.github.com"
           git config --global user.name "github_bot"
           git add .
-          git commit -m "Add A New Link"
-          git push
+          git commit -m "Add a New Link"
+          env:
+            Status: OK
+
+      - name: Send Email
+        if: ${{ env.Status== 'OK' }}
+        uses: dawidd6/action-send-mail@master
+        with:
+          server_address: smtp.163.com
+          server_port: 465
+          username: ${{secrets.MAIL_USERNAME}}
+          password: ${{secrets.MAIL_PASSWORD}}
+          subject:  (${{env.NAME}}) TestFlight Update  
+          to: vemodalen01@outlook.com
+          from: GitHub Actions
+          secure: true
+          body: file://git_diff_1.md
+          convert_markdown: true     
