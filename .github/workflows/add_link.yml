@@ -36,13 +36,13 @@ jobs:
         run: |
           git_diff=`git diff`
           if [ -z "$git_diff" ]; then echo "Nothing Changed";exit; fi
+          echo "Status=$OK" >>  $GITHUB_ENV
+          git diff README.md | grep -P '^\+(?:(?!\+\+))' | sed -e 's/([^()]*)//g' |  sed 's/.//' > git_diff_1.md
+          echo "NAME=$(awk '{print $2}' git_diff_1.md | tr -s "\n" "/")" >>  $GITHUB_ENV          
           git config --global user.email "github_bot@noreply.github.com"
           git config --global user.name "github_bot"
           git add .
           git commit -m "Add a New Link"
-          echo "Status=$OK" >>  $GITHUB_ENV
-          git diff README.md | grep -P '^\+(?:(?!\+\+))' | sed -e 's/([^()]*)//g' |  sed 's/.//' > git_diff_1.md
-          echo "NAME=$(awk '{print $2}' git_diff_1.md | tr -s "\n" "/")" >>  $GITHUB_ENV
 
       - name: Send Email
         if: ${{ env.Status== 'OK' }}
