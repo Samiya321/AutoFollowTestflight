@@ -33,8 +33,6 @@ jobs:
         run: python scripts/add_link.py "${{ github.event.inputs.testflight_link }}" "${{ github.event.inputs.table }}" "${{ github.event.inputs.app_name }}"
 
       - name: Git commit && push
-        env:
-          Status: Fail
         run: |
           git_diff=`git diff`
           if [ -z "$git_diff" ]; then echo "Nothing Changed";exit; fi
