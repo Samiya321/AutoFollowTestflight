@@ -54,8 +54,5 @@ jobs:
             to: vemodalen01@outlook.com
             from: GitHub Actions
             secure: true
-            body: file://git_diff.md
-            convert_markdown: true
-            
-            
-
+            body: file://git_diff.md            
+          
