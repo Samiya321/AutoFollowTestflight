@@ -42,9 +42,9 @@ jobs:
           git commit -m "Add A New Link"
           git push
 
-      -name: Send Email
-       uses: dawidd6/action-send-mail@master
-         with:
+      - name: Send Email
+        uses: dawidd6/action-send-mail@master
+        with:
             server_address: smtp.163.com
             server_port: 465
             username: ${{secrets.MAIL_USERNAME}}
