@@ -16,7 +16,6 @@
 | GitViewer | [https://testflight.apple.com/join/ncv5nOkt](https://testflight.apple.com/join/ncv5nOkt) | Y | 2022-07-12 |
 | The New York Times | [https://testflight.apple.com/join/gfiSREAr](https://testflight.apple.com/join/gfiSREAr) | Y | 2022-07-14 |
 | Endel: Focus, Sleep, Relax | [https://testflight.apple.com/join/PvRJtU2f](https://testflight.apple.com/join/PvRJtU2f) | Y | 2022-07-12 |
-| 1Password - Password Manager | [https://testflight.apple.com/join/flDiG5AU](https://testflight.apple.com/join/flDiG5AU) | F | 2022-07-14 |
 | GoodNotes 5 | [https://testflight.apple.com/join/DRidxxgv](https://testflight.apple.com/join/DRidxxgv) | F | 2022-07-12 |
 | iSH Shell | [https://testflight.apple.com/join/97i7KM8O](https://testflight.apple.com/join/97i7KM8O) | F | 2022-07-11 |
 | Quantumult X | [https://testflight.apple.com/join/VCIvwk2g](https://testflight.apple.com/join/VCIvwk2g) | F | 2022-07-11 |
@@ -107,7 +106,11 @@
 TO WRITE...
 ## Signup Links
 
-| Name | Url | Available |
-| --- | --- | --- |
+|             Name             |                    URL                     |
+| :--------------------------: | :----------------------------------------: |
+| 1Password - Password Manager | https://testflight.apple.com/join/flDiG5AU |
+| Shu - Magic File Viewer beta | https://testflight.apple.com/join/4nss4sdk |
+|                              |                                            |
+
 
 TO WRITE...
