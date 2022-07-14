@@ -30,8 +30,10 @@ jobs:
         run: python scripts/update_status.py
 
       - name: Git commit && push
+        env:
+          Status: Fail
         run: |
-          git_diff=`git diff`
+          git_dif f=`git diff`
           git diff README.md | grep -P '^\+(?:(?!\+\+))' | sed -e 's/([^()]*)//g' |  sed 's/.//' > git_diff_1.md
           echo "NAME=$(awk '{print $2}' git_diff_1.md | tr -s "\n" "/")" >>  $GITHUB_ENV
           if [ -z "$git_diff" ]; then echo "Nothing Changed";exit; fi
@@ -40,10 +42,11 @@ jobs:
           git add .
           git commit -m "Github Action Auto Updated - `date`"
           git push
-
+          env:
+            Status: OK
 
       - name: Send Email
-        if: git_diff != ""
+        if: ${{ env.Status== 'OK' }}
         uses: dawidd6/action-send-mail@master
         with:
           server_address: smtp.163.com
