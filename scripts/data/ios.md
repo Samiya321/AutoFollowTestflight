@@ -34,7 +34,6 @@
 | Grow | [https://testflight.apple.com/join/h3xyVeII](https://testflight.apple.com/join/h3xyVeII) | N | 2022-03-15 |
 | HTTP Catcher | [https://testflight.apple.com/join/4Qt2lIm5](https://testflight.apple.com/join/4Qt2lIm5) | N | 2022-03-15 |
 | JSBox - Learn to Code | [https://testflight.apple.com/join/fHI8igli](https://testflight.apple.com/join/fHI8igli) | N | 2022-03-16 |
-| Kitsunebi - Proxy Utility | [https://testflight.apple.com/join/IdFRwmNy](https://testflight.apple.com/join/IdFRwmNy) | N | 2022-03-16 |
 | Lantern - Faster than a VPN | [https://testflight.apple.com/join/bESvTwBI](https://testflight.apple.com/join/bESvTwBI) | N | 2022-03-15 |
 | Launch Center Pro | [https://testflight.apple.com/join/DpujKg3U](https://testflight.apple.com/join/DpujKg3U) | N | 2022-03-15 |
 | Loon | [https://testflight.apple.com/join/23LA2tmX](https://testflight.apple.com/join/23LA2tmX) | N | 2022-03-15 |
