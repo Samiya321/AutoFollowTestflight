@@ -35,7 +35,7 @@ jobs:
       - name: Git commit && push
         run: |
           git_diff=`git diff`
-          git diff README.md >git_diff.md
+          git diff README.md | grep -P '^\+(?:(?!\+\+))|^-(?:(?!--))' >git_diff.md
           if [ -z "$git_diff" ]; then echo "Nothing Changed";exit; fi
           git config --global user.email "github_bot@noreply.github.com"
           git config --global user.name "github_bot"
