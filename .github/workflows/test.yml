@@ -39,7 +39,7 @@ jobs:
           if [ -z "$git_diff" ]; then echo "Nothing Changed";exit; fi
           echo "Status=OK" >>  $GITHUB_ENV
           git diff README.md | grep -P '^\+(?:(?!\+\+))' | sed -e 's/([^()]*)//g' |  sed 's/.//' > Recent_Update.md
-          echo "TEST=$(`git diff README.md | grep -P '^\+(?:(?!\+\+))' | sed -e 's/([^()]*)//g' |  sed 's/.//'`)" >>  $GITHUB_ENV 
+          echo "TEST=$(git diff README.md | grep -P '^\+(?:(?!\+\+))' | sed -e 's/([^()]*)//g' |  sed 's/.//')" >>  $GITHUB_ENV 
           name=`awk -F "|" '{print $2}' Recent_Update.md | tr -s "\n" " " | sed 's/^[ \t]*//g' | sed 's/[ \t]*$//g'`
           echo "NAME=$(awk -F "|" '{print $2}' Recent_Update.md | tr -s "\n" " " | sed 's/^[ \t]*//g' | sed 's/[ \t]*$//g')" >>  $GITHUB_ENV 
 
