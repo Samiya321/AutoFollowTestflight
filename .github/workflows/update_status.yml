@@ -45,20 +45,20 @@ jobs:
           git commit -m "Testflight Auto Updated - ($Title) "
           git push
 
-      - name: Send Email
-        if: ${{ env.Status == 'OK' }}
-        uses: dawidd6/action-send-mail@master
-        with:
-          server_address: smtp.163.com
-          server_port: 465
-          username: ${{secrets.MAIL_USERNAME}}
-          password: ${{secrets.MAIL_PASSWORD}}
-          subject:  (${{env.Title_Env}}) TestFlight Update  
-          to: vemodalen01@outlook.com
-          from: GitHub Actions
-          secure: true
-          body: file://Recent_Update.md
-          convert_markdown: true          
+      # - name: Send Email
+      #   if: ${{ env.Status == 'OK' }}
+      #   uses: dawidd6/action-send-mail@master
+      #   with:
+      #     server_address: smtp.163.com
+      #     server_port: 465
+      #     username: ${{secrets.MAIL_USERNAME}}
+      #     password: ${{secrets.MAIL_PASSWORD}}
+      #     subject:  (${{env.Title_Env}}) TestFlight Update  
+      #     to: vemodalen01@outlook.com
+      #     from: GitHub Actions
+      #     secure: true
+      #     body: file://Recent_Update.md
+      #     convert_markdown: true          
 
       - name: Telegram Notify
         if: ${{ env.Status == 'OK' }}
