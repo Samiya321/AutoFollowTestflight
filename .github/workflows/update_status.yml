@@ -9,8 +9,6 @@ on:
         description: '指定 Python 版本 3.6+ （不建议修改）'
         required: false
         default: '3.8'
-env: 
-  TZ: Asia/Shanghai 
 jobs:
   main:
     runs-on: ubuntu-latest
@@ -41,7 +39,7 @@ jobs:
           git config --global user.email "github_bot@noreply.github.com"
           git config --global user.name "github_bot"
           git add .
-          git commit -m "Auto Updated - ($name) - `date "+%m-%d %H:%M"`"
+          git commit -m "Auto Updated - ($name) - `date -d "+8 hour" "+%m-%d %H:%M"`"
           git push
 
       - name: Send Email
