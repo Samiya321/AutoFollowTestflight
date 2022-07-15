@@ -9,6 +9,8 @@ on:
         description: '指定 Python 版本 3.6+ （不建议修改）'
         required: false
         default: '3.8'
+env: 
+  TZ: Asia/Shanghai 
 jobs:
   main:
     runs-on: ubuntu-latest
