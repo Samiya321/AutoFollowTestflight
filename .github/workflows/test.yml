@@ -42,7 +42,7 @@ jobs:
           git config --global user.email "github_bot@noreply.github.com"
           git config --global user.name "github_bot"
           git add .
-          git commit -m "Auto Updated - ($NAME) - `date "+%m-%d %H:%M"`"
+          git commit -m "Auto Updated - (${{env.NAME}}) - `date "+%m-%d %H:%M"`"
 
       - name: Send Email
         if: ${{ env.Status == 'OK' }}
