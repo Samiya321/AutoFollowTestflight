@@ -2,7 +2,7 @@ name: Update TestFilght Link Status
 
 on:
   schedule:
-    - cron: '*/5 * * * *'
+    - cron: '*/10 * * * *'
   workflow_dispatch:
     inputs:
       python_version:
