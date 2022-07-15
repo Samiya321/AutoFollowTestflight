@@ -1,32 +1,36 @@
-name: Update TestFilght Link Status
+name: Test
 
 on:
-  schedule:
-    - cron: '*/10 * * * *'
   workflow_dispatch:
     inputs:
-      python_version:
-        description: '指定 Python 版本 3.6+ （不建议修改）'
+      app_name:
+        description: '应用名称【中间不要有英文双引号或英文竖线分隔符"|"】'
         required: false
-        default: '3.8'
+        default: 'None'
+      testflight_link:
+        description: 'Testflight 公共测试的完整链接(非 TestFilght 链接请添加到 scripts/data/signup.md)'
+        required: true
+      table:
+        description: '链接分类(可选值：`macos`, `ios`, `ios_game`, `chinese`)'
+        required: true
+
 jobs:
   main:
     runs-on: ubuntu-latest
-    env:
-      python_version: ${{ github.event.inputs.python_version }}
     steps:
       - uses: actions/checkout@v2
-      - name: Check env
-        run: if [ -z "$python_version" ]; then python_version='3.8'; fi
+
       - name: Set up Python
         uses: actions/setup-python@v2
         with:
-          python-version: ${{ env.python_version }}
+          python-version: '3.8'
           architecture: x64
+
       - name: Init Python Env
         run: pip install -r scripts/requirements.txt
-      - name: Update TestFilght Link Status
-        run: python scripts/update_status.py
+
+      - name: Add A TestFilght Link
+        run: python scripts/add_link.py "${{ github.event.inputs.testflight_link }}" "${{ github.event.inputs.table }}" "${{ github.event.inputs.app_name }}"
 
       - name: Git commit && push
         run: |
@@ -39,7 +43,6 @@ jobs:
           git config --global user.name "github_bot"
           git add .
           git commit -m "Auto Updated - ($NAME) - `date "+%m-%d %H:%M"`"
-          git push
 
       - name: Send Email
         if: ${{ env.Status == 'OK' }}
@@ -55,6 +58,3 @@ jobs:
           secure: true
           body: file://Recent_Update.md
           convert_markdown: true          
-
-          
-          
