@@ -17,3 +17,4 @@
 | 物品清单 | [https://testflight.apple.com/join/gS7YNrK7](https://testflight.apple.com/join/gS7YNrK7) | N | 2022-07-13 |
 | 爱阅书香 | [https://testflight.apple.com/join/LUVtmAeL](https://testflight.apple.com/join/LUVtmAeL) | N | 2022-07-13 |
 | Ahead · 告别拖延症 | [https://testflight.apple.com/join/Daid4Yfu](https://testflight.apple.com/join/Daid4Yfu) | N | 2022-07-15 |
+| 网易邮箱大师 | [https://testflight.apple.com/join/2NH4aiKd](https://testflight.apple.com/join/2NH4aiKd) | N | 2022-07-15 |
