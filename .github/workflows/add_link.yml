@@ -13,8 +13,6 @@ on:
       table:
         description: '链接分类(可选值：`macos`, `ios`, `ios_game`, `chinese`)'
         required: true
-env: 
-  TZ: Asia/Shanghai 
 jobs:
   main:
     runs-on: ubuntu-latest

@@ -2,7 +2,7 @@ name: Update TestFilght Link Status
 
 on:
   schedule:
-    - cron: '*/6 * * * *'
+    - cron: '*/10 * * * *'
   workflow_dispatch:
     inputs:
       python_version:
@@ -39,7 +39,7 @@ jobs:
           git config --global user.email "github_bot@noreply.github.com"
           git config --global user.name "github_bot"
           git add .
-          git commit -m "Auto Updated - ($name) - `date -d "+8 hour" "+%m-%d %H:%M"`"
+          git commit -m "Testflight Auto Updated - ($name) "
           git push
 
       - name: Send Email
