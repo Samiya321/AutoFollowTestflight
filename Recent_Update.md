@@ -1,1 +1,1 @@
-| Donar（yun） | [https://testflight.apple.com/join/p4xmiS1D] | F | 2022-07-16 |
+| Dark Noise | [https://testflight.apple.com/join/kpKtyijY] | Y | 2022-07-16 |
