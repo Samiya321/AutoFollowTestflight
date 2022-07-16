@@ -1,1 +1,1 @@
-| Syncnext | [https://testflight.apple.com/join/HjYGC4aZ] | Y | 2022-07-16 |
+| Syncnext | [https://testflight.apple.com/join/HjYGC4aZ] | F | 2022-07-16 |
