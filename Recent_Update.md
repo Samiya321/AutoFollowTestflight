@@ -1,1 +1,1 @@
-| 后续 - 有记忆的新闻 | [https://testflight.apple.com/join/KyZUvXYo] | F | 2022-07-16 |
+| 后续 - 有记忆的新闻 | [https://testflight.apple.com/join/KyZUvXYo] | Y | 2022-07-17 |
