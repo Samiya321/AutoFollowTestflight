@@ -1,1 +1,1 @@
-| PicsArt | [https://testflight.apple.com/join/d4gDz5s7] | F | 2022-07-18 |
+| Scriptable | [https://testflight.apple.com/join/uN1vTqxk] | Y | 2022-07-18 |
