@@ -1,1 +1,1 @@
-| Syncnext | [https://testflight.apple.com/join/HjYGC4aZ] | Y | 2022-07-18 |
+| PicsArt | [https://testflight.apple.com/join/d4gDz5s7] | Y | 2022-07-18 |
