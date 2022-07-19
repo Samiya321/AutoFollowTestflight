@@ -61,7 +61,7 @@ jobs:
       #     convert_markdown: true          
 
       - name: Telegram Notify
-        if: ${{ env.Status == 'OK' }}
+        # if: ${{ env.Status == 'OK' }}
         uses: appleboy/telegram-action@master
         with:
           to: ${{ secrets.TELEGRAM_TO }}
