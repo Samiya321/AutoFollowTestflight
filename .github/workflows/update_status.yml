@@ -66,6 +66,7 @@ jobs:
         with:
           to: ${{ secrets.TELEGRAM_TO }}
           token: ${{ secrets.TELEGRAM_TOKEN }}
-          message: ${{env.DIFF}}
+          #message: ${{env.DIFF}}
+          message_file: ./Recent_Update.md
           format: markdown
           
