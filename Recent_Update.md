@@ -1,1 +1,1 @@
-| ayiVideo | [https://testflight.apple.com/join/1oijsQbh] | F | 2022-07-20 |
+| Donar（yun） | [https://testflight.apple.com/join/p4xmiS1D] | Y | 2022-07-20 |
