@@ -1,1 +1,1 @@
-| ayiVideo | [https://testflight.apple.com/join/1oijsQbh] | N | 2022-07-21 |
+| 1Blocker | [https://testflight.apple.com/join/KjmVWFnT] | Y | 2022-07-21 |
