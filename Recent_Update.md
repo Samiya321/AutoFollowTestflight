@@ -1,1 +1,1 @@
-| Donar（yun） | [https://testflight.apple.com/join/p4xmiS1D] | F | 2022-07-21 |
+| 笔趣阁 | [https://testflight.apple.com/join/BkCvkK4J] | F | 2022-07-21 |
