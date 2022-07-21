@@ -1,1 +1,1 @@
-| 1Blocker | [https://testflight.apple.com/join/KjmVWFnT] | F | 2022-07-21 |
+| JSBox - Learn to Code | [https://testflight.apple.com/join/fHI8igli] | Y | 2022-07-21 |
