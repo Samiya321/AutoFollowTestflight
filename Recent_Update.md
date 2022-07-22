@@ -1,1 +1,1 @@
-| The New York Times | [https://testflight.apple.com/join/gfiSREAr] | F | 2022-07-21 |
+| 1Blocker | [https://testflight.apple.com/join/KjmVWFnT] | F | 2022-07-22 |
