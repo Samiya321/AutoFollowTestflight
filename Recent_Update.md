@@ -1,1 +1,2 @@
-| Scriptable | [https://testflight.apple.com/join/uN1vTqxk] | F | 2022-07-22 |
+| 后续 - 有记忆的新闻 | [https://testflight.apple.com/join/KyZUvXYo] | Y | 2022-07-23 |
+| Syncnext | [https://testflight.apple.com/join/HjYGC4aZ] | F | 2022-07-23 |
