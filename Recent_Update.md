@@ -1,1 +1,1 @@
-| GoodNotes 5 | [https://testflight.apple.com/join/DRidxxgv] | F | 2022-07-23 |
+| Tiktok | [https://testflight.apple.com/join/plxN3myo] | Y | 2022-07-23 |
