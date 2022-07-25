@@ -1,2 +1,2 @@
-| Scriptable | [https://testflight.apple.com/join/uN1vTqxk] | F | 2022-07-24 |
-| Wikipedia | [https://testflight.apple.com/join/Z0AU0KXC] | F | 2022-07-24 |
+| 后续 - 有记忆的新闻 | [https://testflight.apple.com/join/KyZUvXYo] | F | 2022-07-25 |
+| Donar（yun） | [https://testflight.apple.com/join/p4xmiS1D] | Y | 2022-07-25 |
