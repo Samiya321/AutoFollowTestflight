@@ -1,1 +1,1 @@
-| Wikipedia | [https://testflight.apple.com/join/Z0AU0KXC] | F | 2022-07-26 |
+| Scanner Pro－OCR Scanning & Fax | [https://testflight.apple.com/join/6YzgDpdZ] | N | 2022-07-26 |
