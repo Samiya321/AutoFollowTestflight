@@ -1,1 +1,1 @@
-| Donar（yun） | [https://testflight.apple.com/join/p4xmiS1D] | F | 2022-07-27 |
+| 1Blocker | [https://testflight.apple.com/join/KjmVWFnT] | Y | 2022-07-27 |
