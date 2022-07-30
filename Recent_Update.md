@@ -1,1 +1,1 @@
-| Donar（yun） | [https://testflight.apple.com/join/p4xmiS1D] | F | 2022-07-30 |
+| JSBox - Learn to Code | [https://testflight.apple.com/join/fHI8igli] | F | 2022-07-30 |
