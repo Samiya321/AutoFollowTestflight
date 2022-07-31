@@ -1,1 +1,1 @@
-| Wikipedia | [https://testflight.apple.com/join/Z0AU0KXC] | Y | 2022-07-31 |
+| Donar（yun） | [https://testflight.apple.com/join/p4xmiS1D] | Y | 2022-07-31 |
