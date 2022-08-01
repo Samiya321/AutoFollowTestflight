@@ -1,1 +1,1 @@
-| MindNode - Mind Map &amp; Outline | [https://testflight.apple.com/join/hjfUVaaX] | Y | 2022-08-01 |
+| Scriptable | [https://testflight.apple.com/join/uN1vTqxk] | Y | 2022-08-01 |
