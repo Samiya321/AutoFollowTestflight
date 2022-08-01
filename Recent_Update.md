@@ -1,1 +1,2 @@
-| Scriptable | [https://testflight.apple.com/join/uN1vTqxk] | F | 2022-08-01 |
+| Scriptable | [https://testflight.apple.com/join/uN1vTqxk] | Y | 2022-08-01 |
+| 1Blocker | [https://testflight.apple.com/join/KjmVWFnT] | F | 2022-08-01 |
