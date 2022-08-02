@@ -1,2 +1,2 @@
-| Scriptable | [https://testflight.apple.com/join/uN1vTqxk] | F | 2022-08-02 |
-| Donar（yun） | [https://testflight.apple.com/join/p4xmiS1D] | F | 2022-08-02 |
+| The New York Times | [https://testflight.apple.com/join/gfiSREAr] | F | 2022-08-02 |
+| MindNode - Mind Map &amp; Outline | [https://testflight.apple.com/join/hjfUVaaX] | F | 2022-08-02 |
