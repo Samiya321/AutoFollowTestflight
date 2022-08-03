@@ -1,1 +1,1 @@
-| 1Blocker | [https://testflight.apple.com/join/KjmVWFnT] | F | 2022-08-02 |
+| MindNode - Mind Map &amp; Outline | [https://testflight.apple.com/join/hjfUVaaX] | Y | 2022-08-03 |
