@@ -1,1 +1,2 @@
-| 后续 - 有记忆的新闻 | [https://testflight.apple.com/join/KyZUvXYo] | Y | 2022-08-04 |
+| 笔趣阁 | [https://testflight.apple.com/join/BkCvkK4J] | Y | 2022-08-04 |
+| Syncnext | [https://testflight.apple.com/join/HjYGC4aZ] | Y | 2022-08-04 |
