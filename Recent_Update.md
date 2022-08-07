@@ -1,1 +1,1 @@
-| The New York Times | [https://testflight.apple.com/join/gfiSREAr] | F | 2022-08-07 |
+| Donar（yun） | [https://testflight.apple.com/join/p4xmiS1D] | Y | 2022-08-07 |
