@@ -1,1 +1,1 @@
-| MindNode - Mind Map &amp; Outline | [https://testflight.apple.com/join/hjfUVaaX] | Y | 2022-08-10 |
+| IIVA | [https://testflight.apple.com/join/4IKaxvAV] | Y | 2022-08-10 |
