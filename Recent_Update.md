@@ -1,1 +1,1 @@
-| 笔趣阁 | [https://testflight.apple.com/join/BkCvkK4J] | Y | 2022-08-10 |
+| Scriptable | [https://testflight.apple.com/join/uN1vTqxk] | Y | 2022-08-10 |
