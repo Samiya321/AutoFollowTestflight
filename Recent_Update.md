@@ -1,1 +1,1 @@
-| GoodNotes 5 | [https://testflight.apple.com/join/DRidxxgv] | F | 2022-08-12 |
+| Wikipedia | [https://testflight.apple.com/join/Z0AU0KXC] | F | 2022-08-12 |
