@@ -1,1 +1,1 @@
-| Donar（yun） | [https://testflight.apple.com/join/p4xmiS1D] | F | 2022-08-12 |
+| GoodNotes 5 | [https://testflight.apple.com/join/DRidxxgv] | F | 2022-08-12 |
