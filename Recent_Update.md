@@ -1,1 +1,1 @@
-| Wikipedia | [https://testflight.apple.com/join/Z0AU0KXC] | Y | 2022-08-12 |
+| 笔趣阁 | [https://testflight.apple.com/join/BkCvkK4J] | N | 2022-08-12 |
