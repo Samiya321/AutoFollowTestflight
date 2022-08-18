@@ -1,1 +1,1 @@
-| Wikipedia | [https://testflight.apple.com/join/Z0AU0KXC] | Y | 2022-08-18 |
+| Wikipedia | [https://testflight.apple.com/join/Z0AU0KXC] | F | 2022-08-18 |
