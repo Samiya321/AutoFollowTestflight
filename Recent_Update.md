@@ -1,1 +1,1 @@
-| Nomad Drive | [https://testflight.apple.com/join/sM0hQdpP] | N | 2022-08-20 |
+| 蛋播星球 | [https://testflight.apple.com/join/TKsSfDlT] | Y | 2022-08-20 |

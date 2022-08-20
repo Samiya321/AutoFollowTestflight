@@ -2,6 +2,7 @@
 
 | Name | Url | Available | Date |
 | --- | --- | --- | -- |
+| 蛋播星球 | [https://testflight.apple.com/join/TKsSfDlT](https://testflight.apple.com/join/TKsSfDlT) | Y | 2022-08-20 |
 | 后续 - 有记忆的新闻 | [https://testflight.apple.com/join/KyZUvXYo](https://testflight.apple.com/join/KyZUvXYo) | F | 2022-08-14 |
 | DAMA | [https://testflight.apple.com/join/q7EMTnCR](https://testflight.apple.com/join/q7EMTnCR) | N | 2022-05-21 |
 | XMind | [https://testflight.apple.com/join/5Z2wXADj](https://testflight.apple.com/join/5Z2wXADj) | N | 2022-03-15 |
@@ -13,7 +14,6 @@
 | 首宿漫画 | [https://testflight.apple.com/join/rMzS8eIw](https://testflight.apple.com/join/rMzS8eIw) | N | 2022-07-12 |
 | 今日热榜 | [https://testflight.apple.com/join/iW7rBi1G](https://testflight.apple.com/join/iW7rBi1G) | N | 2022-07-12 |
 | 源阅读 | [https://testflight.apple.com/join/2Svrtr9y](https://testflight.apple.com/join/2Svrtr9y) | N | 2022-07-12 |
-| 蛋播星球 | [https://testflight.apple.com/join/TKsSfDlT](https://testflight.apple.com/join/TKsSfDlT) | N | 2022-07-13 |
 | 物品清单 | [https://testflight.apple.com/join/gS7YNrK7](https://testflight.apple.com/join/gS7YNrK7) | N | 2022-07-13 |
 | 爱阅书香 | [https://testflight.apple.com/join/LUVtmAeL](https://testflight.apple.com/join/LUVtmAeL) | N | 2022-07-13 |
 | Ahead · 告别拖延症 | [https://testflight.apple.com/join/Daid4Yfu](https://testflight.apple.com/join/Daid4Yfu) | N | 2022-07-15 |
