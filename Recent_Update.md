@@ -1,2 +1,2 @@
-| Tiktok | [https://testflight.apple.com/join/plxN3myo] | F | 2022-08-20 |
-| 后续 - 有记忆的新闻 | [https://testflight.apple.com/join/KyZUvXYo] | Y | 2022-08-20 |
+| Wikipedia | [https://testflight.apple.com/join/Z0AU0KXC] | Y | 2022-08-21 |
+| Syncnext | [https://testflight.apple.com/join/HjYGC4aZ] | Y | 2022-08-21 |
