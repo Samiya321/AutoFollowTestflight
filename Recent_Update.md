@@ -1,1 +1,1 @@
-| Tiktok | [https://testflight.apple.com/join/plxN3myo] | F | 2022-08-21 |
+| Scriptable | [https://testflight.apple.com/join/uN1vTqxk] | F | 2022-08-21 |
