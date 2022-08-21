@@ -1,2 +1,1 @@
-| Wikipedia | [https://testflight.apple.com/join/Z0AU0KXC] | Y | 2022-08-21 |
-| Syncnext | [https://testflight.apple.com/join/HjYGC4aZ] | Y | 2022-08-21 |
+| Syncnext | [https://testflight.apple.com/join/HjYGC4aZ] | F | 2022-08-21 |
