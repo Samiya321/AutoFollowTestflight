@@ -14,6 +14,7 @@
 | GitViewer | [https://testflight.apple.com/join/ncv5nOkt](https://testflight.apple.com/join/ncv5nOkt) | Y | 2022-07-12 |
 | MindNode - Mind Map &amp; Outline | [https://testflight.apple.com/join/hjfUVaaX](https://testflight.apple.com/join/hjfUVaaX) | Y | 2022-08-12 |
 | Endel: Focus, Sleep, Relax | [https://testflight.apple.com/join/PvRJtU2f](https://testflight.apple.com/join/PvRJtU2f) | Y | 2022-07-12 |
+| FE File Explorer Pro | [https://testflight.apple.com/join/xsSlT2sX](https://testflight.apple.com/join/xsSlT2sX) | Y | 2022-08-22 |
 | 1Blocker | [https://testflight.apple.com/join/KjmVWFnT](https://testflight.apple.com/join/KjmVWFnT) | F | 2022-08-22 |
 | GoodNotes 5 | [https://testflight.apple.com/join/DRidxxgv](https://testflight.apple.com/join/DRidxxgv) | F | 2022-08-12 |
 | iSH Shell | [https://testflight.apple.com/join/97i7KM8O](https://testflight.apple.com/join/97i7KM8O) | F | 2022-07-11 |
@@ -52,7 +53,6 @@
 | Taio | [https://testflight.apple.com/join/Y7rojBiD](https://testflight.apple.com/join/Y7rojBiD) | N | 2022-07-12 |
 | APTV | [https://testflight.apple.com/join/UXOTIjpy](https://testflight.apple.com/join/UXOTIjpy) | N | 2022-07-12 |
 | Documents by Readdle | [https://testflight.apple.com/join/EOPEVoDA](https://testflight.apple.com/join/EOPEVoDA) | N | 2022-07-13 |
-| FE File Explorer Pro | [https://testflight.apple.com/join/xsSlT2sX](https://testflight.apple.com/join/xsSlT2sX) | N | 2022-07-13 |
 | Pocket: Save. Read. Grow | [https://testflight.apple.com/join/LxKzQMpu](https://testflight.apple.com/join/LxKzQMpu) | N | 2022-07-13 |
 | Games-Price | [https://testflight.apple.com/join/oFR8jXF1](https://testflight.apple.com/join/oFR8jXF1) | N | 2022-07-13 |
 | ▎FastClip | [https://testflight.apple.com/join/uqnv24sq](https://testflight.apple.com/join/uqnv24sq) | N | 2022-07-13 |
