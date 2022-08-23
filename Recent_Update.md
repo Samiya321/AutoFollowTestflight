@@ -1,1 +1,1 @@
-| The New York Times | [https://testflight.apple.com/join/gfiSREAr] | Y | 2022-08-22 |
+| GoodNotes 5 | [https://testflight.apple.com/join/DRidxxgv] | Y | 2022-08-23 |
