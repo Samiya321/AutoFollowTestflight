@@ -1,1 +1,1 @@
-| JSBox - Learn to Code | [https://testflight.apple.com/join/fHI8igli] | Y | 2022-08-24 |
+| The New York Times | [https://testflight.apple.com/join/gfiSREAr] | Y | 2022-08-24 |
