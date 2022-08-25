@@ -1,1 +1,1 @@
-| IIVA | [https://testflight.apple.com/join/4IKaxvAV] | Y | 2022-08-25 |
+| The New York Times | [https://testflight.apple.com/join/gfiSREAr] | F | 2022-08-25 |
