@@ -49,7 +49,6 @@
 | Ulysses | [https://testflight.apple.com/join/WIO0xuYY](https://testflight.apple.com/join/WIO0xuYY) | N | 2022-03-15 |
 | WireGuard | [https://testflight.apple.com/join/63I19SDT](https://testflight.apple.com/join/63I19SDT) | N | 2022-03-15 |
 | Working Copy | [https://testflight.apple.com/join/i4dpUz7J](https://testflight.apple.com/join/i4dpUz7J) | N | 2022-03-15 |
-| Taio | [https://testflight.apple.com/join/Y7rojBiD](https://testflight.apple.com/join/Y7rojBiD) | N | 2022-07-12 |
 | APTV | [https://testflight.apple.com/join/UXOTIjpy](https://testflight.apple.com/join/UXOTIjpy) | N | 2022-07-12 |
 | Documents by Readdle | [https://testflight.apple.com/join/EOPEVoDA](https://testflight.apple.com/join/EOPEVoDA) | N | 2022-07-13 |
 | FE File Explorer Pro | [https://testflight.apple.com/join/xsSlT2sX](https://testflight.apple.com/join/xsSlT2sX) | N | 2022-08-22 |
@@ -60,3 +59,4 @@
 | Fileball | [https://testflight.apple.com/join/MzzsLpIt](https://testflight.apple.com/join/MzzsLpIt) | N | 2022-07-13 |
 | Noteshelf  | [https://testflight.apple.com/join/PRoaQgCP](https://testflight.apple.com/join/PRoaQgCP) | N | 2022-07-13 |
 | Todoist | [https://testflight.apple.com/join/L2pBORZN](https://testflight.apple.com/join/L2pBORZN) | D | 2022-08-10 |
+| Taio | [https://testflight.apple.com/join/Y7rojBiD](https://testflight.apple.com/join/Y7rojBiD) | D | 2022-08-25 |
