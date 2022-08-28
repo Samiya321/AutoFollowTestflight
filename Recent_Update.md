@@ -1,1 +1,1 @@
-| 1Blocker | [https://testflight.apple.com/join/KjmVWFnT] | F | 2022-08-28 |
+| Syncnext | [https://testflight.apple.com/join/HjYGC4aZ] | Y | 2022-08-28 |
