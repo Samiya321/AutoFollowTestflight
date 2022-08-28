@@ -1,1 +1,1 @@
-| The New York Times | [https://testflight.apple.com/join/gfiSREAr] | Y | 2022-08-28 |
+| Syncnext | [https://testflight.apple.com/join/HjYGC4aZ] | F | 2022-08-28 |
