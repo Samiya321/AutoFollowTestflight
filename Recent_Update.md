@@ -1,1 +1,1 @@
-| Syncnext | [https://testflight.apple.com/join/HjYGC4aZ] | F | 2022-08-28 |
+| Scriptable | [https://testflight.apple.com/join/uN1vTqxk] | F | 2022-08-28 |
