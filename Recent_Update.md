@@ -1,1 +1,1 @@
-| IIVA | [https://testflight.apple.com/join/4IKaxvAV] | Y | 2022-08-29 |
+| IIVA | [https://testflight.apple.com/join/4IKaxvAV] | F | 2022-08-29 |
