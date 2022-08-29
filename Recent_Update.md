@@ -1,1 +1,2 @@
-| Donar（yun） | [https://testflight.apple.com/join/p4xmiS1D] | F | 2022-08-29 |
+| Scriptable | [https://testflight.apple.com/join/uN1vTqxk] | Y | 2022-08-29 |
+| The New York Times | [https://testflight.apple.com/join/gfiSREAr] | F | 2022-08-29 |
