@@ -1,1 +1,1 @@
-| IIVA | [https://testflight.apple.com/join/4IKaxvAV] | F | 2022-08-28 |
+| Donar（yun） | [https://testflight.apple.com/join/p4xmiS1D] | Y | 2022-08-29 |
