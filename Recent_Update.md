@@ -1,1 +1,1 @@
-| Wikipedia | [https://testflight.apple.com/join/Z0AU0KXC] | Y | 2022-08-30 |
+| IIVA | [https://testflight.apple.com/join/4IKaxvAV] | Y | 2022-08-30 |
