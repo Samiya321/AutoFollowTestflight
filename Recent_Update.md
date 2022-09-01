@@ -1,1 +1,1 @@
-| Tiktok | [https://testflight.apple.com/join/plxN3myo] | F | 2022-09-01 |
+| 1Blocker | [https://testflight.apple.com/join/KjmVWFnT] | F | 2022-09-01 |
