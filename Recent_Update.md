@@ -1,1 +1,1 @@
-| Tiktok | [https://testflight.apple.com/join/plxN3myo] | F | 2022-09-02 |
+| Donar（yun） | [https://testflight.apple.com/join/p4xmiS1D] | F | 2022-09-02 |
