@@ -59,4 +59,3 @@
 | Infuse | [https://testflight.apple.com/join/BsrXSTwX](https://testflight.apple.com/join/BsrXSTwX) | N | 2022-07-13 |
 | Fileball | [https://testflight.apple.com/join/MzzsLpIt](https://testflight.apple.com/join/MzzsLpIt) | N | 2022-07-13 |
 | Noteshelf  | [https://testflight.apple.com/join/PRoaQgCP](https://testflight.apple.com/join/PRoaQgCP) | N | 2022-07-13 |
-| Todoist | [https://testflight.apple.com/join/L2pBORZN](https://testflight.apple.com/join/L2pBORZN) | D | 2022-08-10 |
