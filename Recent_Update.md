@@ -1,1 +1,1 @@
-| Syncnext | [https://testflight.apple.com/join/HjYGC4aZ] | Y | 2022-09-04 |
+| DAMA | [https://testflight.apple.com/join/q7EMTnCR] | Y | 2022-09-04 |
