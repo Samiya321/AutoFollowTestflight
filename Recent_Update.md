@@ -1,1 +1,1 @@
-| Donar（yun） | [https://testflight.apple.com/join/p4xmiS1D] | Y | 2022-09-05 |
+| DAMA | [https://testflight.apple.com/join/q7EMTnCR] | Y | 2022-09-05 |
