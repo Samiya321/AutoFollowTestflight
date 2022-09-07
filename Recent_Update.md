@@ -1,2 +1,1 @@
-| 1Blocker | [https://testflight.apple.com/join/KjmVWFnT] | Y | 2022-09-07 |
-| IIVA | [https://testflight.apple.com/join/4IKaxvAV] | Y | 2022-09-07 |
+| 1Blocker | [https://testflight.apple.com/join/KjmVWFnT] | F | 2022-09-07 |
