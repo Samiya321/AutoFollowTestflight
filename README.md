@@ -2,7 +2,6 @@
 
 | Name | Url | Available | Date |
 | --- | --- | --- | -- |
-| 1Blocker | [https://testflight.apple.com/join/KjmVWFnT](https://testflight.apple.com/join/KjmVWFnT) | Y | 2022-09-08 |
 | GitHub | [https://testflight.apple.com/join/NLskzwi5](https://testflight.apple.com/join/NLskzwi5) | Y | 2022-07-12 |
 | IFTTT | [https://testflight.apple.com/join/Lgmzxy7Y](https://testflight.apple.com/join/Lgmzxy7Y) | Y | 2022-08-15 |
 | Musixmatch Lyrics Finder | [https://testflight.apple.com/join/7yLzN5td](https://testflight.apple.com/join/7yLzN5td) | Y | 2022-07-12 |
@@ -15,6 +14,7 @@
 | GitViewer | [https://testflight.apple.com/join/ncv5nOkt](https://testflight.apple.com/join/ncv5nOkt) | Y | 2022-07-12 |
 | MindNode - Mind Map &amp; Outline | [https://testflight.apple.com/join/hjfUVaaX](https://testflight.apple.com/join/hjfUVaaX) | Y | 2022-08-12 |
 | Endel: Focus, Sleep, Relax | [https://testflight.apple.com/join/PvRJtU2f](https://testflight.apple.com/join/PvRJtU2f) | Y | 2022-07-12 |
+| 1Blocker | [https://testflight.apple.com/join/KjmVWFnT](https://testflight.apple.com/join/KjmVWFnT) | F | 2022-09-08 |
 | GoodNotes 5 | [https://testflight.apple.com/join/DRidxxgv](https://testflight.apple.com/join/DRidxxgv) | F | 2022-08-23 |
 | iSH Shell | [https://testflight.apple.com/join/97i7KM8O](https://testflight.apple.com/join/97i7KM8O) | F | 2022-07-11 |
 | JSBox - Learn to Code | [https://testflight.apple.com/join/fHI8igli](https://testflight.apple.com/join/fHI8igli) | F | 2022-08-28 |
@@ -88,8 +88,8 @@
 | Name | Url | Available | Date |
 | --- | --- | --- | -- |
 | Syncnext | [https://testflight.apple.com/join/HjYGC4aZ](https://testflight.apple.com/join/HjYGC4aZ) | Y | 2022-09-08 |
+| Donar（yun） | [https://testflight.apple.com/join/p4xmiS1D](https://testflight.apple.com/join/p4xmiS1D) | Y | 2022-09-08 |
 | IIVA | [https://testflight.apple.com/join/4IKaxvAV](https://testflight.apple.com/join/4IKaxvAV) | Y | 2022-09-07 |
-| Donar（yun） | [https://testflight.apple.com/join/p4xmiS1D](https://testflight.apple.com/join/p4xmiS1D) | F | 2022-09-07 |
 | ayiVideo | [https://testflight.apple.com/join/1oijsQbh](https://testflight.apple.com/join/1oijsQbh) | N | 2022-07-21 |
 | Nomad Drive | [https://testflight.apple.com/join/sM0hQdpP](https://testflight.apple.com/join/sM0hQdpP) | N | 2022-08-20 |
 
