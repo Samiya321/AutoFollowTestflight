@@ -65,7 +65,7 @@
 
 | Name | Url | Available | Date |
 | --- | --- | --- | -- |
-| DAMA | [https://testflight.apple.com/join/q7EMTnCR](https://testflight.apple.com/join/q7EMTnCR) | F | 2022-09-07 |
+| DAMA | [https://testflight.apple.com/join/q7EMTnCR](https://testflight.apple.com/join/q7EMTnCR) | Y | 2022-09-08 |
 | 后续 - 有记忆的新闻 | [https://testflight.apple.com/join/KyZUvXYo](https://testflight.apple.com/join/KyZUvXYo) | F | 2022-09-04 |
 | XMind | [https://testflight.apple.com/join/5Z2wXADj](https://testflight.apple.com/join/5Z2wXADj) | N | 2022-03-15 |
 | 石头阅读 | [https://testflight.apple.com/join/0x2bROvq](https://testflight.apple.com/join/0x2bROvq) | N | 2022-03-15 |
@@ -88,8 +88,8 @@
 | Name | Url | Available | Date |
 | --- | --- | --- | -- |
 | Syncnext | [https://testflight.apple.com/join/HjYGC4aZ](https://testflight.apple.com/join/HjYGC4aZ) | Y | 2022-09-08 |
-| Donar（yun） | [https://testflight.apple.com/join/p4xmiS1D](https://testflight.apple.com/join/p4xmiS1D) | Y | 2022-09-08 |
 | IIVA | [https://testflight.apple.com/join/4IKaxvAV](https://testflight.apple.com/join/4IKaxvAV) | Y | 2022-09-07 |
+| Donar（yun） | [https://testflight.apple.com/join/p4xmiS1D](https://testflight.apple.com/join/p4xmiS1D) | F | 2022-09-08 |
 | ayiVideo | [https://testflight.apple.com/join/1oijsQbh](https://testflight.apple.com/join/1oijsQbh) | N | 2022-07-21 |
 | Nomad Drive | [https://testflight.apple.com/join/sM0hQdpP](https://testflight.apple.com/join/sM0hQdpP) | N | 2022-08-20 |
 
