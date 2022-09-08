@@ -2,8 +2,8 @@
 
 | Name | Url | Available | Date |
 | --- | --- | --- | -- |
+| Syncnext | [https://testflight.apple.com/join/HjYGC4aZ](https://testflight.apple.com/join/HjYGC4aZ) | Y | 2022-09-08 |
 | IIVA | [https://testflight.apple.com/join/4IKaxvAV](https://testflight.apple.com/join/4IKaxvAV) | Y | 2022-09-07 |
-| Syncnext | [https://testflight.apple.com/join/HjYGC4aZ](https://testflight.apple.com/join/HjYGC4aZ) | F | 2022-09-07 |
 | Donar（yun） | [https://testflight.apple.com/join/p4xmiS1D](https://testflight.apple.com/join/p4xmiS1D) | F | 2022-09-07 |
 | ayiVideo | [https://testflight.apple.com/join/1oijsQbh](https://testflight.apple.com/join/1oijsQbh) | N | 2022-07-21 |
 | Nomad Drive | [https://testflight.apple.com/join/sM0hQdpP](https://testflight.apple.com/join/sM0hQdpP) | N | 2022-08-20 |
