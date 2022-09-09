@@ -1,1 +1,1 @@
-| DAMA | [https://testflight.apple.com/join/q7EMTnCR] | F | 2022-09-09 |
+| 1Blocker | [https://testflight.apple.com/join/KjmVWFnT] | Y | 2022-09-09 |
