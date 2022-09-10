@@ -1,1 +1,1 @@
-| IIVA | [https://testflight.apple.com/join/4IKaxvAV] | Y | 2022-09-10 |
+| Termius – SSH client | [https://testflight.apple.com/join/MnuClabg] | Y | 2022-09-10 |
