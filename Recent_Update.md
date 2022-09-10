@@ -1,1 +1,1 @@
-| IIVA | [https://testflight.apple.com/join/4IKaxvAV] | F | 2022-09-10 |
+| Scriptable | [https://testflight.apple.com/join/uN1vTqxk] | Y | 2022-09-10 |
