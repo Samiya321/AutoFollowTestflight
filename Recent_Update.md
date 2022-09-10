@@ -1,1 +1,1 @@
-| Termius – SSH client | [https://testflight.apple.com/join/MnuClabg] | F | 2022-09-10 |
+| Wikipedia | [https://testflight.apple.com/join/Z0AU0KXC] | F | 2022-09-10 |
