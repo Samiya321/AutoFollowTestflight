@@ -1,1 +1,1 @@
-| Steam | [https://testflight.apple.com/join/8BOPXsGz] | F | 2022-09-09 |
+| Scriptable | [https://testflight.apple.com/join/uN1vTqxk] | Y | 2022-09-10 |
