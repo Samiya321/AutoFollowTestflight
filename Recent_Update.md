@@ -1,1 +1,1 @@
-| Telegram Messenger | [https://testflight.apple.com/join/u6iogfd0] | F | 2022-09-12 |
+| Scriptable | [https://testflight.apple.com/join/uN1vTqxk] | Y | 2022-09-12 |
