@@ -1,1 +1,1 @@
-| JSBox - Learn to Code | [https://testflight.apple.com/join/fHI8igli] | F | 2022-09-11 |
+| Wikipedia | [https://testflight.apple.com/join/Z0AU0KXC] | Y | 2022-09-12 |
