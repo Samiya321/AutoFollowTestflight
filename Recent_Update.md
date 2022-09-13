@@ -1,1 +1,2 @@
-| 后续 - 有记忆的新闻 | [https://testflight.apple.com/join/KyZUvXYo] | Y | 2022-09-13 |
+| Scriptable | [https://testflight.apple.com/join/uN1vTqxk] | Y | 2022-09-13 |
+| Wikipedia | [https://testflight.apple.com/join/Z0AU0KXC] | F | 2022-09-13 |
