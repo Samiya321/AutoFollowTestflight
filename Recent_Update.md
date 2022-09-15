@@ -1,1 +1,1 @@
-| DAMA | [https://testflight.apple.com/join/q7EMTnCR] | F | 2022-09-15 |
+| Wikipedia | [https://testflight.apple.com/join/Z0AU0KXC] | F | 2022-09-15 |
