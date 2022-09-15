@@ -1,1 +1,1 @@
-| Tiktok | [https://testflight.apple.com/join/plxN3myo] | F | 2022-09-14 |
+| Termius – SSH client | [https://testflight.apple.com/join/MnuClabg] | F | 2022-09-15 |
