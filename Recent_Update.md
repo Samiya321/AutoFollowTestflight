@@ -1,1 +1,1 @@
-| Tiktok | [https://testflight.apple.com/join/plxN3myo] | F | 2022-09-16 |
+| Steam | [https://testflight.apple.com/join/8BOPXsGz] | Y | 2022-09-16 |
