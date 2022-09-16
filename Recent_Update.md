@@ -1,1 +1,1 @@
-| Scriptable | [https://testflight.apple.com/join/uN1vTqxk] | F | 2022-09-16 |
+| Donar（yun） | [https://testflight.apple.com/join/p4xmiS1D] | N | 2022-09-16 |
