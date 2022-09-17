@@ -57,17 +57,17 @@
 | Pocket: Save. Read. Grow | [https://testflight.apple.com/join/LxKzQMpu](https://testflight.apple.com/join/LxKzQMpu) | N | 2022-07-13 |
 | Games-Price | [https://testflight.apple.com/join/oFR8jXF1](https://testflight.apple.com/join/oFR8jXF1) | N | 2022-07-13 |
 | ▎FastClip | [https://testflight.apple.com/join/uqnv24sq](https://testflight.apple.com/join/uqnv24sq) | N | 2022-07-13 |
-| Infuse | [https://testflight.apple.com/join/BsrXSTwX](https://testflight.apple.com/join/BsrXSTwX) | N | 2022-07-13 |
 | Fileball | [https://testflight.apple.com/join/MzzsLpIt](https://testflight.apple.com/join/MzzsLpIt) | N | 2022-07-13 |
 | Noteshelf  | [https://testflight.apple.com/join/PRoaQgCP](https://testflight.apple.com/join/PRoaQgCP) | N | 2022-07-13 |
 | vvebo | [https://testflight.apple.com/join/cEJFc2Pd](https://testflight.apple.com/join/cEJFc2Pd) | N | 2022-09-15 |
+| Infuse | [https://testflight.apple.com/join/BsrXSTwX](https://testflight.apple.com/join/BsrXSTwX) | D | 2022-09-17 |
 
 
 ## Chinese App
 
 | Name | Url | Available | Date |
 | --- | --- | --- | -- |
-| DAMA | [https://testflight.apple.com/join/q7EMTnCR](https://testflight.apple.com/join/q7EMTnCR) | F | 2022-09-15 |
+| DAMA | [https://testflight.apple.com/join/q7EMTnCR](https://testflight.apple.com/join/q7EMTnCR) | Y | 2022-09-17 |
 | 后续 - 有记忆的新闻 | [https://testflight.apple.com/join/KyZUvXYo](https://testflight.apple.com/join/KyZUvXYo) | F | 2022-09-14 |
 | XMind | [https://testflight.apple.com/join/5Z2wXADj](https://testflight.apple.com/join/5Z2wXADj) | N | 2022-03-15 |
 | 石头阅读 | [https://testflight.apple.com/join/0x2bROvq](https://testflight.apple.com/join/0x2bROvq) | N | 2022-03-15 |
