@@ -1,1 +1,1 @@
-| 1Blocker | [https://testflight.apple.com/join/KjmVWFnT] | Y | 2022-09-17 |
+| 1Blocker | [https://testflight.apple.com/join/KjmVWFnT] | F | 2022-09-17 |
