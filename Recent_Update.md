@@ -1,1 +1,1 @@
-| Syncnext | [https://testflight.apple.com/join/HjYGC4aZ] | F | 2022-09-18 |
+| Steam | [https://testflight.apple.com/join/8BOPXsGz] | Y | 2022-09-18 |
