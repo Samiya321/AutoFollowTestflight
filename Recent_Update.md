@@ -1,1 +1,1 @@
-| Syncnext | [https://testflight.apple.com/join/HjYGC4aZ] | F | 2022-09-18 |
+| Termius – SSH client | [https://testflight.apple.com/join/MnuClabg] | Y | 2022-09-18 |
