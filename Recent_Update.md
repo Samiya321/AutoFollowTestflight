@@ -1,1 +1,1 @@
-| Steam | [https://testflight.apple.com/join/8BOPXsGz] | F | 2022-09-18 |
+| DAMA | [https://testflight.apple.com/join/q7EMTnCR] | F | 2022-09-18 |
