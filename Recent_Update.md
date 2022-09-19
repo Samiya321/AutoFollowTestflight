@@ -1,1 +1,1 @@
-| Tiktok | [https://testflight.apple.com/join/plxN3myo] | F | 2022-09-19 |
+| Syncnext | [https://testflight.apple.com/join/HjYGC4aZ] | Y | 2022-09-19 |
