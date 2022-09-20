@@ -1,1 +1,1 @@
-| Termius – SSH client | [https://testflight.apple.com/join/MnuClabg] | F | 2022-09-19 |
+| 后续 - 有记忆的新闻 | [https://testflight.apple.com/join/KyZUvXYo] | Y | 2022-09-20 |
