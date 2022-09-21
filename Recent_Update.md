@@ -1,3 +1,2 @@
-| The New York Times | [https://testflight.apple.com/join/gfiSREAr] | Y | 2022-09-21 |
-| DAMA | [https://testflight.apple.com/join/q7EMTnCR] | Y | 2022-09-21 |
-| Syncnext | [https://testflight.apple.com/join/HjYGC4aZ] | Y | 2022-09-21 |
+| 1Blocker | [https://testflight.apple.com/join/KjmVWFnT] | Y | 2022-09-21 |
+| 后续 - 有记忆的新闻 | [https://testflight.apple.com/join/KyZUvXYo] | Y | 2022-09-21 |
