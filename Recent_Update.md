@@ -1,1 +1,1 @@
-| Scriptable | [https://testflight.apple.com/join/uN1vTqxk] | F | 2022-09-22 |
+| DAMA | [https://testflight.apple.com/join/q7EMTnCR] | Y | 2022-09-22 |
