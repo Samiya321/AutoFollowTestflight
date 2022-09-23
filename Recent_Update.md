@@ -1,1 +1,1 @@
-| Scriptable | [https://testflight.apple.com/join/uN1vTqxk] | F | 2022-09-23 |
+| The New York Times | [https://testflight.apple.com/join/gfiSREAr] | Y | 2022-09-23 |
