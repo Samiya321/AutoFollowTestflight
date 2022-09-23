@@ -1,1 +1,1 @@
-| 后续 - 有记忆的新闻 | [https://testflight.apple.com/join/KyZUvXYo] | N | 2022-09-23 |
+| DAMA | [https://testflight.apple.com/join/q7EMTnCR] | Y | 2022-09-23 |
