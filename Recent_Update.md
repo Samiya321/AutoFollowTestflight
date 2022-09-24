@@ -1,1 +1,1 @@
-| Notion | [https://testflight.apple.com/join/YSo8aVCS] | Y | 2022-09-24 |
+| Termius – SSH client | [https://testflight.apple.com/join/MnuClabg] | Y | 2022-09-24 |
