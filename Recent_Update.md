@@ -1,1 +1,1 @@
-| DAMA | [https://testflight.apple.com/join/q7EMTnCR] | F | 2022-09-24 |
+| Notion | [https://testflight.apple.com/join/YSo8aVCS] | Y | 2022-09-24 |
