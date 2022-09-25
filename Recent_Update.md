@@ -1,1 +1,1 @@
-| Notion | [https://testflight.apple.com/join/YSo8aVCS] | Y | 2022-09-25 |
+| The New York Times | [https://testflight.apple.com/join/gfiSREAr] | Y | 2022-09-25 |
