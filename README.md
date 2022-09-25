@@ -13,7 +13,6 @@
 | Notion | [https://testflight.apple.com/join/YSo8aVCS](https://testflight.apple.com/join/YSo8aVCS) | Y | 2022-09-25 |
 | PicsArt | [https://testflight.apple.com/join/d4gDz5s7](https://testflight.apple.com/join/d4gDz5s7) | Y | 2022-07-19 |
 | GitViewer | [https://testflight.apple.com/join/ncv5nOkt](https://testflight.apple.com/join/ncv5nOkt) | Y | 2022-07-12 |
-| The New York Times | [https://testflight.apple.com/join/gfiSREAr](https://testflight.apple.com/join/gfiSREAr) | Y | 2022-09-25 |
 | MindNode - Mind Map &amp; Outline | [https://testflight.apple.com/join/hjfUVaaX](https://testflight.apple.com/join/hjfUVaaX) | Y | 2022-08-12 |
 | Endel: Focus, Sleep, Relax | [https://testflight.apple.com/join/PvRJtU2f](https://testflight.apple.com/join/PvRJtU2f) | Y | 2022-07-12 |
 | 1Blocker | [https://testflight.apple.com/join/KjmVWFnT](https://testflight.apple.com/join/KjmVWFnT) | F | 2022-09-21 |
@@ -24,6 +23,7 @@
 | Scriptable | [https://testflight.apple.com/join/uN1vTqxk](https://testflight.apple.com/join/uN1vTqxk) | F | 2022-09-25 |
 | Telegram Messenger | [https://testflight.apple.com/join/u6iogfd0](https://testflight.apple.com/join/u6iogfd0) | F | 2022-09-12 |
 | OffScreen - Less Screen Time | [https://testflight.apple.com/join/Lsk0kvr2](https://testflight.apple.com/join/Lsk0kvr2) | F | 2022-08-13 |
+| The New York Times | [https://testflight.apple.com/join/gfiSREAr](https://testflight.apple.com/join/gfiSREAr) | F | 2022-09-25 |
 | Tiktok | [https://testflight.apple.com/join/plxN3myo](https://testflight.apple.com/join/plxN3myo) | F | 2022-09-24 |
 | Steam | [https://testflight.apple.com/join/8BOPXsGz](https://testflight.apple.com/join/8BOPXsGz) | F | 2022-09-18 |
 | 奇点 | [https://testflight.apple.com/join/ljsb1FUS](https://testflight.apple.com/join/ljsb1FUS) | F | 2022-09-15 |
@@ -89,8 +89,8 @@
 
 | Name | Url | Available | Date |
 | --- | --- | --- | -- |
+| Syncnext | [https://testflight.apple.com/join/HjYGC4aZ](https://testflight.apple.com/join/HjYGC4aZ) | Y | 2022-09-25 |
 | IIVA | [https://testflight.apple.com/join/4IKaxvAV](https://testflight.apple.com/join/4IKaxvAV) | Y | 2022-09-13 |
-| Syncnext | [https://testflight.apple.com/join/HjYGC4aZ](https://testflight.apple.com/join/HjYGC4aZ) | F | 2022-09-24 |
 | Donar（yun） | [https://testflight.apple.com/join/p4xmiS1D](https://testflight.apple.com/join/p4xmiS1D) | N | 2022-09-16 |
 | ayiVideo | [https://testflight.apple.com/join/1oijsQbh](https://testflight.apple.com/join/1oijsQbh) | N | 2022-07-21 |
 | Nomad Drive | [https://testflight.apple.com/join/sM0hQdpP](https://testflight.apple.com/join/sM0hQdpP) | N | 2022-08-20 |
