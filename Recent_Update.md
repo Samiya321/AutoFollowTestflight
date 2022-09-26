@@ -1,1 +1,1 @@
-| Scriptable | [https://testflight.apple.com/join/uN1vTqxk] | F | 2022-09-25 |
+| Notion | [https://testflight.apple.com/join/YSo8aVCS] | Y | 2022-09-26 |
