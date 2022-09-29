@@ -1,1 +1,1 @@
-| Notion | [https://testflight.apple.com/join/YSo8aVCS] | Y | 2022-09-29 |
+| Syncnext | [https://testflight.apple.com/join/HjYGC4aZ] | Y | 2022-09-29 |
