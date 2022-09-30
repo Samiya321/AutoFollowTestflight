@@ -1,1 +1,1 @@
-| Tiktok | [https://testflight.apple.com/join/plxN3myo] | F | 2022-09-29 |
+| DAMA | [https://testflight.apple.com/join/q7EMTnCR] | Y | 2022-09-30 |
