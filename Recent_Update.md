@@ -1,1 +1,1 @@
-| Tiktok | [https://testflight.apple.com/join/plxN3myo] | F | 2022-10-02 |
+| The New York Times | [https://testflight.apple.com/join/gfiSREAr] | F | 2022-10-02 |
