@@ -1,1 +1,1 @@
-| 1Blocker | [https://testflight.apple.com/join/KjmVWFnT] | Y | 2022-10-03 |
+| Notion | [https://testflight.apple.com/join/YSo8aVCS] | Y | 2022-10-03 |
