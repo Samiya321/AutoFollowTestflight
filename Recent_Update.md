@@ -1,1 +1,1 @@
-| DAMA | [https://testflight.apple.com/join/q7EMTnCR] | F | 2022-10-03 |
+| The New York Times | [https://testflight.apple.com/join/gfiSREAr] | Y | 2022-10-03 |
