@@ -1,1 +1,1 @@
-| Syncnext | [https://testflight.apple.com/join/HjYGC4aZ] | F | 2022-10-04 |
+| Notion | [https://testflight.apple.com/join/YSo8aVCS] | Y | 2022-10-04 |
