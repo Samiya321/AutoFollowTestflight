@@ -1,1 +1,1 @@
-| JSBox - Learn to Code | [https://testflight.apple.com/join/fHI8igli] | Y | 2022-10-08 |
+| Termius – SSH client | [https://testflight.apple.com/join/MnuClabg] | F | 2022-10-08 |
