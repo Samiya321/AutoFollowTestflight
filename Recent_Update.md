@@ -1,1 +1,1 @@
-| Notion | [https://testflight.apple.com/join/YSo8aVCS] | Y | 2022-10-08 |
+| Tiktok | [https://testflight.apple.com/join/plxN3myo] | Y | 2022-10-08 |
