@@ -1,1 +1,1 @@
-| JSBox - Learn to Code | [https://testflight.apple.com/join/fHI8igli] | F | 2022-10-09 |
+| DAMA | [https://testflight.apple.com/join/q7EMTnCR] | Y | 2022-10-09 |
