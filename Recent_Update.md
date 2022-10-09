@@ -1,1 +1,1 @@
-| Termius – SSH client | [https://testflight.apple.com/join/MnuClabg] | F | 2022-10-08 |
+| 1Blocker | [https://testflight.apple.com/join/KjmVWFnT] | Y | 2022-10-09 |
