@@ -1,1 +1,1 @@
-| Notion | [https://testflight.apple.com/join/YSo8aVCS] | Y | 2022-10-12 |
+| Notion | [https://testflight.apple.com/join/YSo8aVCS] | F | 2022-10-12 |
