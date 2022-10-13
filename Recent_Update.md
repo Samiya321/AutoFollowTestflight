@@ -1,1 +1,1 @@
-| Steam | [https://testflight.apple.com/join/8BOPXsGz] | F | 2022-10-13 |
+| Endel: Focus, Sleep, Relax | [https://testflight.apple.com/join/PvRJtU2f] | N | 2022-10-13 |
