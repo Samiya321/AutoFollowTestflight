@@ -1,2 +1,2 @@
-| Tiktok | [https://testflight.apple.com/join/plxN3myo] | Y | 2022-10-13 |
-| JSBox - Learn to Code | [https://testflight.apple.com/join/fHI8igli] | F | 2022-10-13 |
+| 1Blocker | [https://testflight.apple.com/join/KjmVWFnT] | Y | 2022-10-13 |
+| Tiktok | [https://testflight.apple.com/join/plxN3myo] | F | 2022-10-13 |
