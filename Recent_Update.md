@@ -1,1 +1,1 @@
-| Termius – SSH client | [https://testflight.apple.com/join/MnuClabg] | F | 2022-10-13 |
+| Steam | [https://testflight.apple.com/join/8BOPXsGz] | Y | 2022-10-13 |
