@@ -4,6 +4,7 @@
 | --- | --- | --- | -- |
 | GitHub | [https://testflight.apple.com/join/NLskzwi5](https://testflight.apple.com/join/NLskzwi5) | Y | 2022-07-12 |
 | IFTTT | [https://testflight.apple.com/join/Lgmzxy7Y](https://testflight.apple.com/join/Lgmzxy7Y) | Y | 2022-08-15 |
+| JSBox - Learn to Code | [https://testflight.apple.com/join/fHI8igli](https://testflight.apple.com/join/fHI8igli) | Y | 2022-10-14 |
 | Musixmatch Lyrics Finder | [https://testflight.apple.com/join/7yLzN5td](https://testflight.apple.com/join/7yLzN5td) | Y | 2022-07-12 |
 | OpenVPN Connect | [https://testflight.apple.com/join/MFsXqm7F](https://testflight.apple.com/join/MFsXqm7F) | Y | 2022-07-12 |
 | Scanner Pro－OCR Scanning & Fax | [https://testflight.apple.com/join/6YzgDpdZ](https://testflight.apple.com/join/6YzgDpdZ) | Y | 2022-07-29 |
@@ -14,10 +15,10 @@
 | GitViewer | [https://testflight.apple.com/join/ncv5nOkt](https://testflight.apple.com/join/ncv5nOkt) | Y | 2022-07-12 |
 | MindNode - Mind Map &amp; Outline | [https://testflight.apple.com/join/hjfUVaaX](https://testflight.apple.com/join/hjfUVaaX) | Y | 2022-08-12 |
 | Endel: Focus, Sleep, Relax | [https://testflight.apple.com/join/PvRJtU2f](https://testflight.apple.com/join/PvRJtU2f) | Y | 2022-10-13 |
+| Steam | [https://testflight.apple.com/join/8BOPXsGz](https://testflight.apple.com/join/8BOPXsGz) | Y | 2022-10-14 |
 | 1Blocker | [https://testflight.apple.com/join/KjmVWFnT](https://testflight.apple.com/join/KjmVWFnT) | F | 2022-10-13 |
 | GoodNotes 5 | [https://testflight.apple.com/join/DRidxxgv](https://testflight.apple.com/join/DRidxxgv) | F | 2022-08-23 |
 | iSH Shell | [https://testflight.apple.com/join/97i7KM8O](https://testflight.apple.com/join/97i7KM8O) | F | 2022-07-11 |
-| JSBox - Learn to Code | [https://testflight.apple.com/join/fHI8igli](https://testflight.apple.com/join/fHI8igli) | F | 2022-10-13 |
 | Quantumult X | [https://testflight.apple.com/join/VCIvwk2g](https://testflight.apple.com/join/VCIvwk2g) | F | 2022-07-11 |
 | Telegram Messenger | [https://testflight.apple.com/join/u6iogfd0](https://testflight.apple.com/join/u6iogfd0) | F | 2022-09-12 |
 | Termius – SSH client | [https://testflight.apple.com/join/MnuClabg](https://testflight.apple.com/join/MnuClabg) | F | 2022-10-13 |
@@ -25,7 +26,6 @@
 | Notion | [https://testflight.apple.com/join/YSo8aVCS](https://testflight.apple.com/join/YSo8aVCS) | F | 2022-10-14 |
 | The New York Times | [https://testflight.apple.com/join/gfiSREAr](https://testflight.apple.com/join/gfiSREAr) | F | 2022-10-14 |
 | Tiktok | [https://testflight.apple.com/join/plxN3myo](https://testflight.apple.com/join/plxN3myo) | F | 2022-10-13 |
-| Steam | [https://testflight.apple.com/join/8BOPXsGz](https://testflight.apple.com/join/8BOPXsGz) | F | 2022-10-14 |
 | 奇点 | [https://testflight.apple.com/join/ljsb1FUS](https://testflight.apple.com/join/ljsb1FUS) | F | 2022-09-15 |
 | A.BIG.T IV | [https://testflight.apple.com/join/3aArQFMQ](https://testflight.apple.com/join/3aArQFMQ) | N | 2022-03-15 |
 | AdGuard | [https://testflight.apple.com/join/XqF1FkBg](https://testflight.apple.com/join/XqF1FkBg) | N | 2022-06-21 |

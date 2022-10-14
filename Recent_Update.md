@@ -1,2 +1,2 @@
-| Notion | [https://testflight.apple.com/join/YSo8aVCS] | F | 2022-10-14 |
-| The New York Times | [https://testflight.apple.com/join/gfiSREAr] | F | 2022-10-14 |
+| JSBox - Learn to Code | [https://testflight.apple.com/join/fHI8igli] | Y | 2022-10-14 |
+| Steam | [https://testflight.apple.com/join/8BOPXsGz] | Y | 2022-10-14 |
