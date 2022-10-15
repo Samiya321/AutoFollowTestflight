@@ -1,1 +1,1 @@
-| The New York Times | [https://testflight.apple.com/join/gfiSREAr] | Y | 2022-10-15 |
+| Steam | [https://testflight.apple.com/join/8BOPXsGz] | F | 2022-10-15 |
