@@ -17,7 +17,6 @@
 | Endel: Focus, Sleep, Relax | [https://testflight.apple.com/join/PvRJtU2f](https://testflight.apple.com/join/PvRJtU2f) | Y | 2022-10-13 |
 | GoodNotes 5 | [https://testflight.apple.com/join/DRidxxgv](https://testflight.apple.com/join/DRidxxgv) | F | 2022-08-23 |
 | iSH Shell | [https://testflight.apple.com/join/97i7KM8O](https://testflight.apple.com/join/97i7KM8O) | F | 2022-07-11 |
-| JSBox - Learn to Code | [https://testflight.apple.com/join/fHI8igli](https://testflight.apple.com/join/fHI8igli) | F | 2022-10-14 |
 | Quantumult X | [https://testflight.apple.com/join/VCIvwk2g](https://testflight.apple.com/join/VCIvwk2g) | F | 2022-10-15 |
 | Telegram Messenger | [https://testflight.apple.com/join/u6iogfd0](https://testflight.apple.com/join/u6iogfd0) | F | 2022-10-15 |
 | Termius – SSH client | [https://testflight.apple.com/join/MnuClabg](https://testflight.apple.com/join/MnuClabg) | F | 2022-10-14 |
@@ -98,10 +97,7 @@
 | :--------------------------: | :----------------------------------------: |
 | 1Password - Password Manager | https://testflight.apple.com/join/flDiG5AU |
 | Shu - Magic File Viewer beta | https://testflight.apple.com/join/4nss4sdk |
-| 1Blocker | https://testflight.apple.com/join/KjmVWFnT |
-| Steam | https://testflight.apple.com/join/8BOPXsGz |
-| Tiktok | https://testflight.apple.com/join/plxN3myo |
-| Notion | https://testflight.apple.com/join/YSo8aVCS |
+|                              |                                            |
 
 
 
