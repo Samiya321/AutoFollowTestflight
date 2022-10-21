@@ -1,1 +1,1 @@
-| DAMA | [https://testflight.apple.com/join/q7EMTnCR] | F | 2022-10-19 |
+| Termius – SSH client | [https://testflight.apple.com/join/MnuClabg] | Y | 2022-10-21 |
