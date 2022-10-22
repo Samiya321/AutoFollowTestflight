@@ -1,1 +1,1 @@
-| Termius – SSH client | [https://testflight.apple.com/join/MnuClabg] | F | 2022-10-21 |
+| Termius – SSH client | [https://testflight.apple.com/join/MnuClabg] | Y | 2022-10-22 |
