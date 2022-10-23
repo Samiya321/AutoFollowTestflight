@@ -1,1 +1,1 @@
-| OpenVPN Connect | [https://testflight.apple.com/join/MFsXqm7F] | F | 2022-10-23 |
+| Termius – SSH client | [https://testflight.apple.com/join/MnuClabg] | Y | 2022-10-23 |
