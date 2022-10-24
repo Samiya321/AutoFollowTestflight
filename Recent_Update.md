@@ -1,1 +1,1 @@
-| Syncnext | [https://testflight.apple.com/join/HjYGC4aZ] | Y | 2022-10-24 |
+| OpenVPN Connect | [https://testflight.apple.com/join/MFsXqm7F] | Y | 2022-10-24 |
