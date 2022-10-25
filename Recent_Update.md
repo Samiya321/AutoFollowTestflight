@@ -1,1 +1,1 @@
-| DAMA | [https://testflight.apple.com/join/q7EMTnCR] | Y | 2022-10-25 |
+| OpenVPN Connect | [https://testflight.apple.com/join/MFsXqm7F] | Y | 2022-10-25 |
