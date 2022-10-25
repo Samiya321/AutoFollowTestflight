@@ -1,1 +1,2 @@
-| Musixmatch Lyrics Finder | [https://testflight.apple.com/join/7yLzN5td] | F | 2022-10-25 |
+| Sleep Cycle alarm clock | [https://testflight.apple.com/join/8RcEFqFF] | F | 2022-10-25 |
+| DAMA | [https://testflight.apple.com/join/q7EMTnCR] | Y | 2022-10-25 |
