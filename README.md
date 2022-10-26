@@ -4,6 +4,7 @@
 | --- | --- | --- | -- |
 | GitHub | [https://testflight.apple.com/join/NLskzwi5](https://testflight.apple.com/join/NLskzwi5) | Y | 2022-07-12 |
 | IFTTT | [https://testflight.apple.com/join/Lgmzxy7Y](https://testflight.apple.com/join/Lgmzxy7Y) | Y | 2022-08-15 |
+| OpenVPN Connect | [https://testflight.apple.com/join/MFsXqm7F](https://testflight.apple.com/join/MFsXqm7F) | Y | 2022-10-26 |
 | Wikipedia | [https://testflight.apple.com/join/Z0AU0KXC](https://testflight.apple.com/join/Z0AU0KXC) | Y | 2022-09-15 |
 | PicsArt | [https://testflight.apple.com/join/d4gDz5s7](https://testflight.apple.com/join/d4gDz5s7) | Y | 2022-07-19 |
 | GitViewer | [https://testflight.apple.com/join/ncv5nOkt](https://testflight.apple.com/join/ncv5nOkt) | Y | 2022-07-12 |
@@ -12,7 +13,6 @@
 | GoodNotes 5 | [https://testflight.apple.com/join/DRidxxgv](https://testflight.apple.com/join/DRidxxgv) | F | 2022-08-23 |
 | iSH Shell | [https://testflight.apple.com/join/97i7KM8O](https://testflight.apple.com/join/97i7KM8O) | F | 2022-07-11 |
 | Musixmatch Lyrics Finder | [https://testflight.apple.com/join/7yLzN5td](https://testflight.apple.com/join/7yLzN5td) | F | 2022-10-25 |
-| OpenVPN Connect | [https://testflight.apple.com/join/MFsXqm7F](https://testflight.apple.com/join/MFsXqm7F) | F | 2022-10-25 |
 | Quantumult X | [https://testflight.apple.com/join/VCIvwk2g](https://testflight.apple.com/join/VCIvwk2g) | F | 2022-10-15 |
 | Scanner Pro－OCR Scanning & Fax | [https://testflight.apple.com/join/6YzgDpdZ](https://testflight.apple.com/join/6YzgDpdZ) | F | 2022-10-26 |
 | Sleep Cycle alarm clock | [https://testflight.apple.com/join/8RcEFqFF](https://testflight.apple.com/join/8RcEFqFF) | F | 2022-10-25 |
