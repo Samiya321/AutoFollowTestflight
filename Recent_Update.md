@@ -1,1 +1,1 @@
-| GitHub | [https://testflight.apple.com/join/NLskzwi5] | Y | 2022-07-12 |
+| PicsArt | [https://testflight.apple.com/join/d4gDz5s7] | F | 2022-10-27 |
