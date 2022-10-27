@@ -1,1 +1,1 @@
-| The New York Times | [https://testflight.apple.com/join/gfiSREAr] | F | 2022-10-27 |
+| Musixmatch Lyrics Finder | [https://testflight.apple.com/join/7yLzN5td] | Y | 2022-10-27 |
