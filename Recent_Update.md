@@ -1,2 +1,1 @@
-| The New York Times | [https://testflight.apple.com/join/gfiSREAr] | Y | 2022-10-27 |
-| Termius – SSH client | [https://testflight.apple.com/join/MnuClabg] | F | 2022-10-27 |
+| GitHub | [https://testflight.apple.com/join/NLskzwi5] | Y | 2022-07-12 |
