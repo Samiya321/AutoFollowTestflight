@@ -1,2 +1,1 @@
-| Scanner Pro－OCR Scanning & Fax | [https://testflight.apple.com/join/6YzgDpdZ] | F | 2022-10-27 |
-| The New York Times | [https://testflight.apple.com/join/gfiSREAr] | F | 2022-10-27 |
+| OpenVPN Connect | [https://testflight.apple.com/join/MFsXqm7F] | Y | 2022-10-27 |
