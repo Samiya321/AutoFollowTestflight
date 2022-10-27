@@ -1,1 +1,1 @@
-| OpenVPN Connect | [https://testflight.apple.com/join/MFsXqm7F] | F | 2022-10-27 |
+| Scanner Pro－OCR Scanning & Fax | [https://testflight.apple.com/join/6YzgDpdZ] | Y | 2022-10-27 |
