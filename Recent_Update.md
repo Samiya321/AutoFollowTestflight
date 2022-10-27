@@ -1,1 +1,2 @@
-| Musixmatch Lyrics Finder | [https://testflight.apple.com/join/7yLzN5td] | F | 2022-10-27 |
+| The New York Times | [https://testflight.apple.com/join/gfiSREAr] | Y | 2022-10-27 |
+| Termius – SSH client | [https://testflight.apple.com/join/MnuClabg] | F | 2022-10-27 |
