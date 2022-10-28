@@ -1,1 +1,1 @@
-| PicsArt | [https://testflight.apple.com/join/d4gDz5s7] | Y | 2022-10-28 |
+| PicsArt | [https://testflight.apple.com/join/d4gDz5s7] | F | 2022-10-28 |
