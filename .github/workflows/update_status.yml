@@ -30,16 +30,16 @@ jobs:
         run: |
           git_diff=`git diff`
           if [ -z "$git_diff" ]; then echo "Nothing Changed";exit; fi
-          echo "Status=OK" >> $GITHUB_ENV
-          git diff README.md | grep -P '^\+(?:(?!\+\+))' | sed -e 's/([^()]*)//g' |  sed 's/.//' | grep -P '^[\s\S]*\|\sY\s\|[\s\S]*$' > Recent_Update.md
+          echo "Status = OK" >>  $GITHUB_ENV
+          git diff README.md | grep -P '^\+(?:(?!\+\+))' | sed -e 's/([^()]*)//g' |  sed 's/.//' > Recent_Update.md
           Title=`awk -F "|" '{print $2}' Recent_Update.md | tr -s "\n" " " | sed 's/^[ \t]*//g' | sed 's/[ \t]*$//g'`
-          echo "DIFF=$(git diff README.md | grep -P '^\+(?:(?!\+\+))' | sed -e 's/([^()]*)//g' |  sed 's/.//' | grep -P '^[\s\S]*\|\sY\s\|[\s\S]*$')" >>  $GITHUB_ENV 
+          echo "DIFF=$(git diff README.md | grep -P '^\+(?:(?!\+\+))' | sed -e 's/([^()]*)//g' |  sed 's/.//')" >>  $GITHUB_ENV 
           echo "Title_Env=$(awk -F "|" '{print $2}' Recent_Update.md | tr -s "\n" " " | sed 's/^[ \t]*//g' | sed 's/[ \t]*$//g')" >>  $GITHUB_ENV          
           git config --global user.email "github_bot@noreply.github.com"
           git config --global user.name "github_bot"
           git add .
           git commit -m "Testflight Auto Updated - ($Title) "
-          git push   
+          git push     
 
       - name: Telegram Notify
         if: ${{ env.Status == 'OK' }}
