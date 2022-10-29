@@ -1,0 +1,30 @@
+name: Update TestFilght Link Status
+
+on:
+  watch:
+    types: started
+  workflow_dispatch:
+
+jobs:
+  main:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v2
+
+      - name: Telegram Notify
+        uses: appleboy/telegram-action@master
+        with:
+          to: ${{ secrets.TELEGRAM_TO }}
+          token: ${{ secrets.TELEGRAM_TOKEN }}
+          #message: ${{env.DIFF}}
+          message_file: ./Recent_Update.md
+          format: html
+
+      - name: Telegram Notify
+        uses: appleboy/telegram-action@master
+        with:
+          to: ${{ secrets.TELEGRAM_TO }}
+          token: ${{ secrets.TELEGRAM_TOKEN }}
+          #message: ${{env.DIFF}}
+          message_file: ./Recent_Update.html
+          format: html
