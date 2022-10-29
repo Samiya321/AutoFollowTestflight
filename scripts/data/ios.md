@@ -52,5 +52,4 @@
 | Fileball | [https://testflight.apple.com/join/MzzsLpIt](https://testflight.apple.com/join/MzzsLpIt) | N | 2022-07-13 |
 | Noteshelf  | [https://testflight.apple.com/join/PRoaQgCP](https://testflight.apple.com/join/PRoaQgCP) | N | 2022-07-13 |
 | vvebo | [https://testflight.apple.com/join/cEJFc2Pd](https://testflight.apple.com/join/cEJFc2Pd) | N | 2022-09-15 |
-| JSBOX | [https://testflight.apple.com/join/fHI8igli](https://testflight.apple.com/join/fHI8igli) | N | 2022-10-29 |
 | Infuse | [https://testflight.apple.com/join/BsrXSTwX](https://testflight.apple.com/join/BsrXSTwX) | D | 2022-09-17 |
