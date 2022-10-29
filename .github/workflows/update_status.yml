@@ -1,16 +1,16 @@
 name: Update TestFilght Link Status
 
 on:
-  # 每十分钟检测一次
   schedule:
     - cron: '*/10 * * * *'
-  # Star时自动检测一次
   watch:
     types: started
   workflow_dispatch:
+
 jobs:
   main:
     runs-on: ubuntu-latest
+
     steps:
       - uses: actions/checkout@v2
 
@@ -26,23 +26,35 @@ jobs:
       - name: Update TestFilght Link Status
         run: python scripts/update_status.py
 
-      - name: Git Diff Check
+      - name: Git commit && push
         run: |
           git_diff=`git diff`
           if [ -z "$git_diff" ]; then echo "Nothing Changed";exit; fi
-          echo "Status=OK" >>  $GITHUB_ENV
+          echo "Status = OK" >>  $GITHUB_ENV
           git diff README.md | grep -P '^\+(?:(?!\+\+))' | sed -e 's/([^()]*)//g' |  sed 's/.//' | grep -P '^[\s\S]*\|\sY\s\|[\s\S]*$' > Recent_Update.md
           Title=`awk -F "|" '{print $2}' Recent_Update.md | tr -s "\n" " " | sed 's/^[ \t]*//g' | sed 's/[ \t]*$//g'`
           echo "DIFF=$(git diff README.md | grep -P '^\+(?:(?!\+\+))' | sed -e 's/([^()]*)//g' |  sed 's/.//' | grep -P '^[\s\S]*\|\sY\s\|[\s\S]*$')" >>  $GITHUB_ENV 
-          echo "Title_Env=$(awk -F "|" '{print $2}' Recent_Update.md | tr -s "\n" " " | sed 's/^[ \t]*//g' | sed 's/[ \t]*$//g')" >>  $GITHUB_ENV
-
-      - name: Git commit && push
-        run: |
+          echo "Title_Env=$(awk -F "|" '{print $2}' Recent_Update.md | tr -s "\n" " " | sed 's/^[ \t]*//g' | sed 's/[ \t]*$//g')" >>  $GITHUB_ENV          
           git config --global user.email "github_bot@noreply.github.com"
           git config --global user.name "github_bot"
           git add .
           git commit -m "Testflight Auto Updated - ($Title) "
           git push
+
+      # - name: Send Email
+      #   if: ${{ env.Status == 'OK' }}
+      #   uses: dawidd6/action-send-mail@master
+      #   with:
+      #     server_address: smtp.163.com
+      #     server_port: 465
+      #     username: ${{secrets.MAIL_USERNAME}}
+      #     password: ${{secrets.MAIL_PASSWORD}}
+      #     subject:  (${{env.Title_Env}}) TestFlight Update  
+      #     to: vemodalen01@outlook.com
+      #     from: GitHub Actions
+      #     secure: true
+      #     body: file://Recent_Update.md
+      #     convert_markdown: true          
 
       - name: Telegram Notify
         if: ${{ env.Status == 'OK' }}
@@ -53,3 +65,4 @@ jobs:
           #message: ${{env.DIFF}}
           message_file: ./Recent_Update.md
           format: html
+          
