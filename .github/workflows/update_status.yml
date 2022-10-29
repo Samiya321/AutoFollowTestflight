@@ -1,64 +1,48 @@
 name: Update TestFilght Link Status
 
 on:
+  # 每十分钟检测一次
   schedule:
     - cron: '*/10 * * * *'
+  # Star时自动检测一次
   watch:
     types: started
   workflow_dispatch:
-    inputs:
-      python_version:
-        description: '指定 Python 版本 3.6+ （不建议修改）'
-        required: false
-        default: '3.8'
 jobs:
   main:
     runs-on: ubuntu-latest
-    env:
-      python_version: ${{ github.event.inputs.python_version }}
     steps:
       - uses: actions/checkout@v2
-      - name: Check env
-        run: if [ -z "$python_version" ]; then python_version='3.8'; fi
+
       - name: Set up Python
         uses: actions/setup-python@v2
         with:
-          python-version: ${{ env.python_version }}
+          python-version: '3.8'
           architecture: x64
+
       - name: Init Python Env
         run: pip install -r scripts/requirements.txt
+
       - name: Update TestFilght Link Status
         run: python scripts/update_status.py
 
-      - name: Git commit && push
+      - name: Git Diff Check
         run: |
           git_diff=`git diff`
           if [ -z "$git_diff" ]; then echo "Nothing Changed";exit; fi
           echo "Status=OK" >>  $GITHUB_ENV
-          git diff README.md | grep -P '^\+(?:(?!\+\+))' | sed -e 's/([^()]*)//g' |  sed 's/.//' > Recent_Update.md
+          git diff README.md | grep -P '^\+(?:(?!\+\+))' | sed -e 's/([^()]*)//g' |  sed 's/.//' | grep -P '^[\s\S]*\|\sY\s\|[\s\S]*$' > Recent_Update.md
           Title=`awk -F "|" '{print $2}' Recent_Update.md | tr -s "\n" " " | sed 's/^[ \t]*//g' | sed 's/[ \t]*$//g'`
-          echo "DIFF=$(git diff README.md | grep -P '^\+(?:(?!\+\+))' | sed -e 's/([^()]*)//g' |  sed 's/.//')" >>  $GITHUB_ENV 
-          echo "Title_Env=$(awk -F "|" '{print $2}' Recent_Update.md | tr -s "\n" " " | sed 's/^[ \t]*//g' | sed 's/[ \t]*$//g')" >>  $GITHUB_ENV          
+          echo "DIFF=$(git diff README.md | grep -P '^\+(?:(?!\+\+))' | sed -e 's/([^()]*)//g' |  sed 's/.//' | grep -P '^[\s\S]*\|\sY\s\|[\s\S]*$')" >>  $GITHUB_ENV 
+          echo "Title_Env=$(awk -F "|" '{print $2}' Recent_Update.md | tr -s "\n" " " | sed 's/^[ \t]*//g' | sed 's/[ \t]*$//g')" >>  $GITHUB_ENV
+
+      - name: Git commit && push
+        run: |
           git config --global user.email "github_bot@noreply.github.com"
           git config --global user.name "github_bot"
           git add .
           git commit -m "Testflight Auto Updated - ($Title) "
           git push
-
-      # - name: Send Email
-      #   if: ${{ env.Status == 'OK' }}
-      #   uses: dawidd6/action-send-mail@master
-      #   with:
-      #     server_address: smtp.163.com
-      #     server_port: 465
-      #     username: ${{secrets.MAIL_USERNAME}}
-      #     password: ${{secrets.MAIL_PASSWORD}}
-      #     subject:  (${{env.Title_Env}}) TestFlight Update  
-      #     to: vemodalen01@outlook.com
-      #     from: GitHub Actions
-      #     secure: true
-      #     body: file://Recent_Update.md
-      #     convert_markdown: true          
 
       - name: Telegram Notify
         if: ${{ env.Status == 'OK' }}
@@ -68,5 +52,4 @@ jobs:
           token: ${{ secrets.TELEGRAM_TOKEN }}
           #message: ${{env.DIFF}}
           message_file: ./Recent_Update.md
-          format: markdown
-          
+          format: html

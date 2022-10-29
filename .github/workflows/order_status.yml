@@ -2,11 +2,7 @@ name: Order TestFilght Link Status
 
 on:
   workflow_dispatch:
-    inputs:
-      python_version:
-        description: '指定 Python 版本 3.6+ （不建议修改）'
-        required: false
-        default: '3.8'
+
 jobs:
   main:
     runs-on: ubuntu-latest
@@ -14,12 +10,11 @@ jobs:
       python_version: ${{ github.event.inputs.python_version }}
     steps:
       - uses: actions/checkout@v2
-      - name: Check env
-        run: if [ -z "$python_version" ]; then python_version='3.8'; fi
+
       - name: Set up Python
         uses: actions/setup-python@v2
         with:
-          python-version: ${{ env.python_version }}
+          python-version: '3.8'
           architecture: x64
 
       - name: Checkout main -> status_ordered
