@@ -10,5 +10,7 @@
 |            Notion            | https://testflight.apple.com/join/YSo8aVCS |
 |    JSBox - Learn to Code     | https://testflight.apple.com/join/fHI8igli |
 |          Scriptable          | https://testflight.apple.com/join/uN1vTqxk |
+| Syncnext | https://testflight.apple.com/join/HjYGC4aZ |
+| DAMA | https://testflight.apple.com/join/q7EMTnCR |
 |                              |                                            |
 
