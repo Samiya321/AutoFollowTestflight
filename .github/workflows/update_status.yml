@@ -30,7 +30,7 @@ jobs:
         run: |
           git_diff=`git diff`
           if [ -z "$git_diff" ]; then echo "Nothing Changed";exit; fi
-          echo "Status = OK" >>  $GITHUB_ENV
+          echo "Status=OK" >> $GITHUB_ENV
           git diff README.md | grep -P '^\+(?:(?!\+\+))' | sed -e 's/([^()]*)//g' |  sed 's/.//' | grep -P '^[\s\S]*\|\sY\s\|[\s\S]*$' > Recent_Update.md
           Title=`awk -F "|" '{print $2}' Recent_Update.md | tr -s "\n" " " | sed 's/^[ \t]*//g' | sed 's/[ \t]*$//g'`
           echo "DIFF=$(git diff README.md | grep -P '^\+(?:(?!\+\+))' | sed -e 's/([^()]*)//g' |  sed 's/.//' | grep -P '^[\s\S]*\|\sY\s\|[\s\S]*$')" >>  $GITHUB_ENV 
@@ -39,22 +39,7 @@ jobs:
           git config --global user.name "github_bot"
           git add .
           git commit -m "Testflight Auto Updated - ($Title) "
-          git push
-
-      # - name: Send Email
-      #   if: ${{ env.Status == 'OK' }}
-      #   uses: dawidd6/action-send-mail@master
-      #   with:
-      #     server_address: smtp.163.com
-      #     server_port: 465
-      #     username: ${{secrets.MAIL_USERNAME}}
-      #     password: ${{secrets.MAIL_PASSWORD}}
-      #     subject:  (${{env.Title_Env}}) TestFlight Update  
-      #     to: vemodalen01@outlook.com
-      #     from: GitHub Actions
-      #     secure: true
-      #     body: file://Recent_Update.md
-      #     convert_markdown: true          
+          git push   
 
       - name: Telegram Notify
         if: ${{ env.Status == 'OK' }}
