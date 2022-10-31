@@ -1,1 +1,1 @@
-| Musixmatch Lyrics Finder | [https://testflight.apple.com/join/7yLzN5td] | Y | 2022-10-30 |
+| Scanner Pro－OCR Scanning & Fax | [https://testflight.apple.com/join/6YzgDpdZ] | Y | 2022-10-31 |
