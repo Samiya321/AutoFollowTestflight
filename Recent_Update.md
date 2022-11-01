@@ -1,1 +1,1 @@
-| Musixmatch Lyrics Finder | [https://testflight.apple.com/join/7yLzN5td] | Y | 2022-11-01 |
+| OpenVPN Connect | [https://testflight.apple.com/join/MFsXqm7F] | Y | 2022-11-01 |
