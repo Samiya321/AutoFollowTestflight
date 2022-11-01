@@ -1,1 +1,1 @@
-| PicsArt | [https://testflight.apple.com/join/d4gDz5s7] | Y | 2022-10-31 |
+| OpenVPN Connect | [https://testflight.apple.com/join/MFsXqm7F] | Y | 2022-11-01 |
