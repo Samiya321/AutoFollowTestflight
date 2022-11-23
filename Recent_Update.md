@@ -1,1 +1,1 @@
-| OpenVPN Connect | [https://testflight.apple.com/join/MFsXqm7F] | Y | 2022-11-23 |
+| Wikipedia | [https://testflight.apple.com/join/Z0AU0KXC] | Y | 2022-11-23 |
