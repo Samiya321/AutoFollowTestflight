@@ -1,1 +1,1 @@
-| Telegram Messenger | [https://testflight.apple.com/join/u6iogfd0] | Y | 2022-12-05 |
+| PicsArt | [https://testflight.apple.com/join/d4gDz5s7] | Y | 2022-12-06 |
