@@ -1,1 +1,1 @@
-| PicsArt | [https://testflight.apple.com/join/d4gDz5s7] | Y | 2022-12-22 |
+| 物品清单 | [https://testflight.apple.com/join/gS7YNrK7] | Y | 2022-12-26 |
