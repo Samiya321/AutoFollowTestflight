@@ -1,1 +1,1 @@
-| PicsArt | [https://testflight.apple.com/join/d4gDz5s7] | Y | 2022-12-27 |
+| ayiVideo | [https://testflight.apple.com/join/1oijsQbh] | Y | 2023-01-04 |
