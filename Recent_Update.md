@@ -1,1 +1,1 @@
-| Wikipedia | [https://testflight.apple.com/join/Z0AU0KXC] | Y | 2023-01-05 |
+| 奇点 | [https://testflight.apple.com/join/ljsb1FUS] | Y | 2023-01-05 |
