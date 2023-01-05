@@ -1,1 +1,1 @@
-| 奇点 | [https://testflight.apple.com/join/ljsb1FUS] | Y | 2023-01-05 |
+| PicsArt | [https://testflight.apple.com/join/d4gDz5s7] | Y | 2023-01-05 |
