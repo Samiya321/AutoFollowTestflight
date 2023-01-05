@@ -1,1 +1,1 @@
-| Telegram Messenger | [https://testflight.apple.com/join/u6iogfd0] | Y | 2023-01-05 |
+| Wikipedia | [https://testflight.apple.com/join/Z0AU0KXC] | Y | 2023-01-05 |
