@@ -1,1 +1,1 @@
-| Pythonista 3 | [https://testflight.apple.com/join/qDkBu2ur] | Y | 2023-01-24 |
+| Nomad Drive | [https://testflight.apple.com/join/sM0hQdpP] | Y | 2023-01-24 |
