@@ -1,1 +1,1 @@
-| Scanner Pro－OCR Scanning & Fax | [https://testflight.apple.com/join/6YzgDpdZ] | Y | 2023-01-31 |
+| Lantern - Faster than a VPN | [https://testflight.apple.com/join/bESvTwBI] | Y | 2023-02-06 |
