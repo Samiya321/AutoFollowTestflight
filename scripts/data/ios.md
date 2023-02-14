@@ -4,7 +4,6 @@
 | --- | --- | --- | -- |
 | GitHub | [https://testflight.apple.com/join/NLskzwi5](https://testflight.apple.com/join/NLskzwi5) | Y | 2023-02-08 |
 | Musixmatch Lyrics Finder | [https://testflight.apple.com/join/7yLzN5td](https://testflight.apple.com/join/7yLzN5td) | Y | 2022-11-03 |
-| PDF Expert: PDF Editor | [https://testflight.apple.com/join/UE75wprO](https://testflight.apple.com/join/UE75wprO) | Y | 2023-02-14 |
 | Sleep Cycle alarm clock | [https://testflight.apple.com/join/8RcEFqFF](https://testflight.apple.com/join/8RcEFqFF) | Y | 2022-11-24 |
 | Wikipedia | [https://testflight.apple.com/join/Z0AU0KXC](https://testflight.apple.com/join/Z0AU0KXC) | Y | 2023-01-22 |
 | GitViewer | [https://testflight.apple.com/join/ncv5nOkt](https://testflight.apple.com/join/ncv5nOkt) | Y | 2022-07-12 |
@@ -33,6 +32,7 @@
 | MOZE 3.0 | [https://testflight.apple.com/join/56S0omVh](https://testflight.apple.com/join/56S0omVh) | N | 2022-03-15 |
 | Nicegram | [https://testflight.apple.com/join/e07wV6pl](https://testflight.apple.com/join/e07wV6pl) | N | 2022-06-06 |
 | OpenVPN Connect | [https://testflight.apple.com/join/MFsXqm7F](https://testflight.apple.com/join/MFsXqm7F) | N | 2022-11-26 |
+| PDF Expert: PDF Editor | [https://testflight.apple.com/join/UE75wprO](https://testflight.apple.com/join/UE75wprO) | N | 2023-02-14 |
 | Picsew v3.0 | [https://testflight.apple.com/join/p68up4N3](https://testflight.apple.com/join/p68up4N3) | N | 2022-03-15 |
 | Pillow | [https://testflight.apple.com/join/apGxTqB1](https://testflight.apple.com/join/apGxTqB1) | N | 2022-03-15 |
 | Pyto-Python IDE | [https://testflight.apple.com/join/Kts3HqEj](https://testflight.apple.com/join/Kts3HqEj) | N | 2022-03-15 |
