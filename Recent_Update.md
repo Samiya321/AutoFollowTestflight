@@ -1,1 +1,1 @@
-| Scanner Pro－OCR Scanning & Fax | [https://testflight.apple.com/join/6YzgDpdZ] | Y | 2023-03-02 |
+| PicsArt | [https://testflight.apple.com/join/d4gDz5s7] | Y | 2023-03-02 |
