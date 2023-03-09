@@ -1,1 +1,1 @@
-| Quantumult X | [https://testflight.apple.com/join/VCIvwk2g] | Y | 2023-03-09 |
+| Pythonista 3 | [https://testflight.apple.com/join/qDkBu2ur] | Y | 2023-03-09 |
