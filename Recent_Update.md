@@ -1,1 +1,1 @@
-| PicsArt | [https://testflight.apple.com/join/d4gDz5s7] | Y | 2023-03-08 |
+| Quantumult X | [https://testflight.apple.com/join/VCIvwk2g] | Y | 2023-03-09 |
