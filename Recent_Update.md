@@ -1,1 +1,1 @@
-| Wikipedia | [https://testflight.apple.com/join/Z0AU0KXC] | Y | 2023-03-13 |
+| Pythonista 3 | [https://testflight.apple.com/join/qDkBu2ur] | Y | 2023-03-13 |
