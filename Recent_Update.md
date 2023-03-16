@@ -1,1 +1,1 @@
-| Sleep Cycle alarm clock | [https://testflight.apple.com/join/8RcEFqFF] | Y | 2023-03-15 |
+| Pythonista 3 | [https://testflight.apple.com/join/qDkBu2ur] | Y | 2023-03-16 |
