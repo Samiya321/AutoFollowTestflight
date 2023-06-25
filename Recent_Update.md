@@ -1,1 +1,1 @@
-| Pythonista 3 | [https://testflight.apple.com/join/qDkBu2ur] | Y | 2023-06-25 |
+| Pocket: Save. Read. Grow | [https://testflight.apple.com/join/LxKzQMpu] | Y | 2023-06-25 |
