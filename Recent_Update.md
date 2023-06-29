@@ -1,1 +1,1 @@
-| PicsArt | [https://testflight.apple.com/join/d4gDz5s7] | Y | 2023-06-28 |
+| Pocket: Save. Read. Grow | [https://testflight.apple.com/join/LxKzQMpu] | Y | 2023-06-29 |
