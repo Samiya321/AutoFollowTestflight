@@ -1,1 +1,1 @@
-| IIVA | [https://testflight.apple.com/join/4IKaxvAV] | Y | 2023-06-30 |
+| Pythonista 3 | [https://testflight.apple.com/join/qDkBu2ur] | Y | 2023-06-30 |
