@@ -1,1 +1,1 @@
-| Pythonista 3 | [https://testflight.apple.com/join/qDkBu2ur] | Y | 2023-07-09 |
+| Telegram Messenger | [https://testflight.apple.com/join/u6iogfd0] | Y | 2023-07-15 |
