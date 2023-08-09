@@ -1,1 +1,1 @@
-| Wikipedia | [https://testflight.apple.com/join/Z0AU0KXC] | Y | 2023-08-09 |
+| AdGuard | [https://testflight.apple.com/join/XqF1FkBg] | Y | 2023-08-09 |
