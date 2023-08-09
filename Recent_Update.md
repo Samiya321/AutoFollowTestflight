@@ -1,1 +1,1 @@
-| AdGuard | [https://testflight.apple.com/join/XqF1FkBg] | Y | 2023-08-09 |
+| PicsArt | [https://testflight.apple.com/join/d4gDz5s7] | Y | 2023-08-09 |
