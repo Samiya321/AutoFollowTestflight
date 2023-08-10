@@ -2,15 +2,15 @@
 
 | Name | Url | Available | Date |
 | --- | --- | --- | -- |
+| GitHub | [https://testflight.apple.com/join/NLskzwi5](https://testflight.apple.com/join/NLskzwi5) | Y | 2023-08-10 |
 | iSH Shell | [https://testflight.apple.com/join/97i7KM8O](https://testflight.apple.com/join/97i7KM8O) | Y | 2023-04-25 |
 | Musixmatch Lyrics Finder | [https://testflight.apple.com/join/7yLzN5td](https://testflight.apple.com/join/7yLzN5td) | Y | 2022-11-03 |
 | Scanner Pro－OCR Scanning & Fax | [https://testflight.apple.com/join/6YzgDpdZ](https://testflight.apple.com/join/6YzgDpdZ) | Y | 2023-08-07 |
 | Sleep Cycle alarm clock | [https://testflight.apple.com/join/8RcEFqFF](https://testflight.apple.com/join/8RcEFqFF) | Y | 2023-03-15 |
-| Wikipedia | [https://testflight.apple.com/join/Z0AU0KXC](https://testflight.apple.com/join/Z0AU0KXC) | Y | 2023-08-10 |
 | MindNode - Mind Map &amp; Outline | [https://testflight.apple.com/join/hjfUVaaX](https://testflight.apple.com/join/hjfUVaaX) | Y | 2022-08-12 |
-| GitHub | [https://testflight.apple.com/join/NLskzwi5](https://testflight.apple.com/join/NLskzwi5) | F | 2023-08-09 |
 | GoodNotes 5 | [https://testflight.apple.com/join/DRidxxgv](https://testflight.apple.com/join/DRidxxgv) | F | 2022-08-23 |
 | Quantumult X | [https://testflight.apple.com/join/VCIvwk2g](https://testflight.apple.com/join/VCIvwk2g) | F | 2023-03-09 |
+| Wikipedia | [https://testflight.apple.com/join/Z0AU0KXC](https://testflight.apple.com/join/Z0AU0KXC) | F | 2023-08-10 |
 | PicsArt | [https://testflight.apple.com/join/d4gDz5s7](https://testflight.apple.com/join/d4gDz5s7) | F | 2023-08-10 |
 | 奇点 | [https://testflight.apple.com/join/ljsb1FUS](https://testflight.apple.com/join/ljsb1FUS) | F | 2023-03-26 |
 | A.BIG.T IV | [https://testflight.apple.com/join/3aArQFMQ](https://testflight.apple.com/join/3aArQFMQ) | N | 2022-03-15 |
@@ -64,7 +64,6 @@
 | 迅雷 | [https://testflight.apple.com/join/vAEklLsb](https://testflight.apple.com/join/vAEklLsb) | N | 2022-03-15 |
 | 黑匣子 Player | [https://testflight.apple.com/join/uCsUGsvN](https://testflight.apple.com/join/uCsUGsvN) | N | 2022-03-15 |
 | 程序员做饭指南 | [https://testflight.apple.com/join/976Esk4W](https://testflight.apple.com/join/976Esk4W) | N | 2022-06-23 |
-| 笔趣阁 | [https://testflight.apple.com/join/BkCvkK4J](https://testflight.apple.com/join/BkCvkK4J) | N | 2022-08-12 |
 | 首宿漫画 | [https://testflight.apple.com/join/rMzS8eIw](https://testflight.apple.com/join/rMzS8eIw) | N | 2022-07-12 |
 | 今日热榜 | [https://testflight.apple.com/join/iW7rBi1G](https://testflight.apple.com/join/iW7rBi1G) | N | 2022-11-03 |
 | 源阅读 | [https://testflight.apple.com/join/2Svrtr9y](https://testflight.apple.com/join/2Svrtr9y) | N | 2022-07-12 |
@@ -74,6 +73,7 @@
 | 爱阅书香 | [https://testflight.apple.com/join/LUVtmAeL](https://testflight.apple.com/join/LUVtmAeL) | N | 2022-07-13 |
 | Ahead · 告别拖延症 | [https://testflight.apple.com/join/Daid4Yfu](https://testflight.apple.com/join/Daid4Yfu) | N | 2022-07-15 |
 | 网易邮箱大师 | [https://testflight.apple.com/join/2NH4aiKd](https://testflight.apple.com/join/2NH4aiKd) | N | 2022-07-15 |
+| 笔趣阁 | [https://testflight.apple.com/join/BkCvkK4J](https://testflight.apple.com/join/BkCvkK4J) | D | 2023-08-10 |
 
 
 ## macOS App List (macOS 12)
