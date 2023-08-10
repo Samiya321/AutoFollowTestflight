@@ -1,1 +1,1 @@
-| PicsArt | [https://testflight.apple.com/join/d4gDz5s7] | Y | 2023-08-10 |
+| Wikipedia | [https://testflight.apple.com/join/Z0AU0KXC] | Y | 2023-08-10 |
