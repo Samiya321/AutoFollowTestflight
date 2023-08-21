@@ -1,1 +1,1 @@
-| Quantumult X | [https://testflight.apple.com/join/VCIvwk2g] | Y | 2023-08-21 |
+| PicsArt | [https://testflight.apple.com/join/d4gDz5s7] | Y | 2023-08-21 |
