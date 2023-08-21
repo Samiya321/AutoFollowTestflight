@@ -1,1 +1,1 @@
-| Wikipedia | [https://testflight.apple.com/join/Z0AU0KXC] | Y | 2023-08-21 |
+| Quantumult X | [https://testflight.apple.com/join/VCIvwk2g] | Y | 2023-08-21 |
