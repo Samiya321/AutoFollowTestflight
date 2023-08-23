@@ -1,1 +1,1 @@
-| MindNode - Mind Map &amp; Outline | [https://testflight.apple.com/join/hjfUVaaX] | Y | 2023-08-23 |
+| ayiVideo | [https://testflight.apple.com/join/1oijsQbh] | Y | 2023-08-23 |
