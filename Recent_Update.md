@@ -1,2 +1,1 @@
-| GitHub | [https://testflight.apple.com/join/NLskzwi5] | Y | 2023-08-24 |
-| PicsArt | [https://testflight.apple.com/join/d4gDz5s7] | Y | 2023-08-24 |
+| Wikipedia | [https://testflight.apple.com/join/Z0AU0KXC] | Y | 2023-08-24 |
