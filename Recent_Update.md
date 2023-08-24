@@ -1,1 +1,1 @@
-| GitHub | [https://testflight.apple.com/join/NLskzwi5] | Y | 2023-08-23 |
+| Quantumult X | [https://testflight.apple.com/join/VCIvwk2g] | Y | 2023-08-24 |
