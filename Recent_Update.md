@@ -1,1 +1,1 @@
-| Quantumult X | [https://testflight.apple.com/join/VCIvwk2g] | Y | 2023-08-24 |
+| IIVA | [https://testflight.apple.com/join/4IKaxvAV] | Y | 2023-08-25 |
