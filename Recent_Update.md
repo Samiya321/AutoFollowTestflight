@@ -1,1 +1,1 @@
-| IIVA | [https://testflight.apple.com/join/4IKaxvAV] | Y | 2023-09-01 |
+| PicsArt | [https://testflight.apple.com/join/d4gDz5s7] | Y | 2023-09-03 |
