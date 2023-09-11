@@ -1,1 +1,1 @@
-| Wikipedia | [https://testflight.apple.com/join/Z0AU0KXC] | Y | 2023-09-11 |
+| GitHub | [https://testflight.apple.com/join/NLskzwi5] | Y | 2023-09-11 |
