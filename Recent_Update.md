@@ -1,1 +1,1 @@
-| Nomad Drive | [https://testflight.apple.com/join/sM0hQdpP] | Y | 2023-09-13 |
+| Wikipedia | [https://testflight.apple.com/join/Z0AU0KXC] | Y | 2023-09-13 |
