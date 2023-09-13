@@ -1,1 +1,1 @@
-| GitHub | [https://testflight.apple.com/join/NLskzwi5] | Y | 2023-09-12 |
+| Nomad Drive | [https://testflight.apple.com/join/sM0hQdpP] | Y | 2023-09-13 |
