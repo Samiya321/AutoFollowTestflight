@@ -1,1 +1,1 @@
-| Wikipedia | [https://testflight.apple.com/join/Z0AU0KXC] | Y | 2023-09-13 |
+| MindNode - Mind Map &amp; Outline | [https://testflight.apple.com/join/hjfUVaaX] | Y | 2023-09-14 |
