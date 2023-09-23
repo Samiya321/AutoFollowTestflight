@@ -1,1 +1,1 @@
-| IIVA | [https://testflight.apple.com/join/4IKaxvAV] | Y | 2023-09-23 |
+| Telegram Messenger | [https://testflight.apple.com/join/u6iogfd0] | Y | 2023-09-23 |
