@@ -1,1 +1,1 @@
-| GitHub | [https://testflight.apple.com/join/NLskzwi5] | Y | 2023-10-25 |
+| 奇点 | [https://testflight.apple.com/join/ljsb1FUS] | Y | 2023-10-25 |
