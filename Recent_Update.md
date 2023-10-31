@@ -1,1 +1,1 @@
-| GoodNotes 5 | [https://testflight.apple.com/join/DRidxxgv] | Y | 2023-10-30 |
+| GitHub | [https://testflight.apple.com/join/NLskzwi5] | Y | 2023-10-31 |
