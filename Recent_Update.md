@@ -1,1 +1,1 @@
-| GitHub | [https://testflight.apple.com/join/NLskzwi5] | Y | 2023-11-18 |
+| Documents by Readdle | [https://testflight.apple.com/join/EOPEVoDA] | Y | 2023-11-18 |
