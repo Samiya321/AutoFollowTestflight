@@ -1,1 +1,1 @@
-| Documents by Readdle | [https://testflight.apple.com/join/EOPEVoDA] | Y | 2023-11-18 |
+| Lantern - Faster than a VPN | [https://testflight.apple.com/join/bESvTwBI] | Y | 2023-11-18 |
