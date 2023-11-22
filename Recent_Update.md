@@ -1,1 +1,2 @@
-| GitHub | [https://testflight.apple.com/join/NLskzwi5] | Y | 2023-11-21 |
+| Lantern - Faster than a VPN | [https://testflight.apple.com/join/bESvTwBI] | Y | 2023-11-22 |
+| IIVA | [https://testflight.apple.com/join/4IKaxvAV] | Y | 2023-11-22 |
