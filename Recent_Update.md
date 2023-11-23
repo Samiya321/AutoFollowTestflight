@@ -1,1 +1,1 @@
-| Stash | [https://testflight.apple.com/join/elwvzipQ] | Y | 2023-11-23 |
+| GitHub | [https://testflight.apple.com/join/NLskzwi5] | Y | 2023-11-23 |
