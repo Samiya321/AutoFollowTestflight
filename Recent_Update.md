@@ -1,1 +1,1 @@
-| 源阅读 | [https://testflight.apple.com/join/2Svrtr9y] | Y | 2023-12-06 |
+| Lantern - Faster than a VPN | [https://testflight.apple.com/join/bESvTwBI] | Y | 2023-12-06 |
