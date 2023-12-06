@@ -2,6 +2,7 @@
 
 | Name | Url | Available | Date |
 | --- | --- | --- | -- |
+| 源阅读 | [https://testflight.apple.com/join/2Svrtr9y](https://testflight.apple.com/join/2Svrtr9y) | Y | 2023-12-06 |
 | XMind | [https://testflight.apple.com/join/5Z2wXADj](https://testflight.apple.com/join/5Z2wXADj) | N | 2022-03-15 |
 | 石头阅读 | [https://testflight.apple.com/join/0x2bROvq](https://testflight.apple.com/join/0x2bROvq) | N | 2022-03-15 |
 | 迅雷 | [https://testflight.apple.com/join/vAEklLsb](https://testflight.apple.com/join/vAEklLsb) | N | 2022-03-15 |
@@ -10,7 +11,6 @@
 | 笔趣阁 | [https://testflight.apple.com/join/BkCvkK4J](https://testflight.apple.com/join/BkCvkK4J) | N | 2023-08-11 |
 | 首宿漫画 | [https://testflight.apple.com/join/rMzS8eIw](https://testflight.apple.com/join/rMzS8eIw) | N | 2022-07-12 |
 | 今日热榜 | [https://testflight.apple.com/join/iW7rBi1G](https://testflight.apple.com/join/iW7rBi1G) | N | 2023-10-25 |
-| 源阅读 | [https://testflight.apple.com/join/2Svrtr9y](https://testflight.apple.com/join/2Svrtr9y) | N | 2022-07-12 |
 | 后续 - 有记忆的新闻 | [https://testflight.apple.com/join/KyZUvXYo](https://testflight.apple.com/join/KyZUvXYo) | N | 2022-09-23 |
 | 蛋播星球 | [https://testflight.apple.com/join/TKsSfDlT](https://testflight.apple.com/join/TKsSfDlT) | N | 2022-08-20 |
 | 物品清单 | [https://testflight.apple.com/join/gS7YNrK7](https://testflight.apple.com/join/gS7YNrK7) | N | 2023-06-17 |
