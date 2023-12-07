@@ -2,7 +2,6 @@
 
 | Name | Url | Available | Date |
 | --- | --- | --- | -- |
-| XMind | [https://testflight.apple.com/join/5Z2wXADj](https://testflight.apple.com/join/5Z2wXADj) | N | 2022-03-15 |
 | 石头阅读 | [https://testflight.apple.com/join/0x2bROvq](https://testflight.apple.com/join/0x2bROvq) | N | 2022-03-15 |
 | 迅雷 | [https://testflight.apple.com/join/vAEklLsb](https://testflight.apple.com/join/vAEklLsb) | N | 2022-03-15 |
 | 黑匣子 Player | [https://testflight.apple.com/join/uCsUGsvN](https://testflight.apple.com/join/uCsUGsvN) | N | 2022-03-15 |
@@ -17,3 +16,4 @@
 | 爱阅书香 | [https://testflight.apple.com/join/LUVtmAeL](https://testflight.apple.com/join/LUVtmAeL) | N | 2022-07-13 |
 | Ahead · 告别拖延症 | [https://testflight.apple.com/join/Daid4Yfu](https://testflight.apple.com/join/Daid4Yfu) | N | 2022-07-15 |
 | 网易邮箱大师 | [https://testflight.apple.com/join/2NH4aiKd](https://testflight.apple.com/join/2NH4aiKd) | N | 2022-07-15 |
+| XMind | [https://testflight.apple.com/join/5Z2wXADj](https://testflight.apple.com/join/5Z2wXADj) | D | 2023-12-07 |
