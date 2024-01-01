@@ -1,1 +1,1 @@
-| IIVA | [https://testflight.apple.com/join/4IKaxvAV] | Y | 2024-01-01 |
+| GitHub | [https://testflight.apple.com/join/NLskzwi5] | Y | 2024-01-01 |
