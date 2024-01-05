@@ -1,1 +1,1 @@
-| IIVA | [https://testflight.apple.com/join/4IKaxvAV] | Y | 2024-01-02 |
+| Lantern - Faster than a VPN | [https://testflight.apple.com/join/bESvTwBI] | Y | 2024-01-05 |
