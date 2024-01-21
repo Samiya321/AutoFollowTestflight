@@ -1,1 +1,1 @@
-| Sleep Cycle alarm clock | [https://testflight.apple.com/join/8RcEFqFF] | Y | 2024-01-21 |
+| GitHub | [https://testflight.apple.com/join/NLskzwi5] | Y | 2024-01-21 |
