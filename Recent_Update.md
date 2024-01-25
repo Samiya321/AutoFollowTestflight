@@ -1,1 +1,1 @@
-| Musixmatch Lyrics Finder | [https://testflight.apple.com/join/7yLzN5td] | Y | 2024-01-25 |
+| Lantern - Faster than a VPN | [https://testflight.apple.com/join/bESvTwBI] | Y | 2024-01-25 |
