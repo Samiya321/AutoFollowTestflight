@@ -1,1 +1,1 @@
-| Telegram Messenger | [https://testflight.apple.com/join/u6iogfd0] | Y | 2024-02-05 |
+| Sleep Cycle alarm clock | [https://testflight.apple.com/join/8RcEFqFF] | Y | 2024-02-05 |
