@@ -1,1 +1,1 @@
-| GitHub | [https://testflight.apple.com/join/NLskzwi5] | Y | 2024-02-03 |
+| Telegram Messenger | [https://testflight.apple.com/join/u6iogfd0] | Y | 2024-02-05 |
