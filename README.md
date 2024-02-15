@@ -6,12 +6,11 @@
 | Musixmatch Lyrics Finder | [https://testflight.apple.com/join/7yLzN5td](https://testflight.apple.com/join/7yLzN5td) | Y | 2024-01-25 |
 | Sleep Cycle alarm clock | [https://testflight.apple.com/join/8RcEFqFF](https://testflight.apple.com/join/8RcEFqFF) | Y | 2024-02-06 |
 | Wikipedia | [https://testflight.apple.com/join/Z0AU0KXC](https://testflight.apple.com/join/Z0AU0KXC) | Y | 2023-09-14 |
+| PicsArt | [https://testflight.apple.com/join/d4gDz5s7](https://testflight.apple.com/join/d4gDz5s7) | Y | 2024-02-15 |
 | MindNode - Mind Map &amp; Outline | [https://testflight.apple.com/join/hjfUVaaX](https://testflight.apple.com/join/hjfUVaaX) | Y | 2023-10-23 |
-| Documents by Readdle | [https://testflight.apple.com/join/EOPEVoDA](https://testflight.apple.com/join/EOPEVoDA) | Y | 2024-02-15 |
 | GitHub | [https://testflight.apple.com/join/NLskzwi5](https://testflight.apple.com/join/NLskzwi5) | F | 2024-02-15 |
 | GoodNotes 5 | [https://testflight.apple.com/join/DRidxxgv](https://testflight.apple.com/join/DRidxxgv) | F | 2024-01-02 |
 | Telegram Messenger | [https://testflight.apple.com/join/u6iogfd0](https://testflight.apple.com/join/u6iogfd0) | F | 2024-02-15 |
-| PicsArt | [https://testflight.apple.com/join/d4gDz5s7](https://testflight.apple.com/join/d4gDz5s7) | F | 2024-02-15 |
 | 奇点 | [https://testflight.apple.com/join/ljsb1FUS](https://testflight.apple.com/join/ljsb1FUS) | F | 2024-02-08 |
 | A.BIG.T IV | [https://testflight.apple.com/join/3aArQFMQ](https://testflight.apple.com/join/3aArQFMQ) | N | 2022-03-15 |
 | AdGuard | [https://testflight.apple.com/join/XqF1FkBg](https://testflight.apple.com/join/XqF1FkBg) | N | 2023-08-09 |
@@ -42,6 +41,7 @@
 | OffScreen - Less Screen Time | [https://testflight.apple.com/join/Lsk0kvr2](https://testflight.apple.com/join/Lsk0kvr2) | N | 2023-03-26 |
 | GitViewer | [https://testflight.apple.com/join/ncv5nOkt](https://testflight.apple.com/join/ncv5nOkt) | N | 2023-02-18 |
 | Endel: Focus, Sleep, Relax | [https://testflight.apple.com/join/PvRJtU2f](https://testflight.apple.com/join/PvRJtU2f) | N | 2023-01-30 |
+| Documents by Readdle | [https://testflight.apple.com/join/EOPEVoDA](https://testflight.apple.com/join/EOPEVoDA) | N | 2024-02-15 |
 | FE File Explorer Pro | [https://testflight.apple.com/join/xsSlT2sX](https://testflight.apple.com/join/xsSlT2sX) | N | 2022-08-22 |
 | Games-Price | [https://testflight.apple.com/join/oFR8jXF1](https://testflight.apple.com/join/oFR8jXF1) | N | 2022-07-13 |
 | ▎FastClip | [https://testflight.apple.com/join/uqnv24sq](https://testflight.apple.com/join/uqnv24sq) | N | 2022-07-13 |
