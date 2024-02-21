@@ -1,1 +1,1 @@
-| PicsArt | [https://testflight.apple.com/join/d4gDz5s7] | Y | 2024-02-20 |
+| PDF Expert: PDF Editor | [https://testflight.apple.com/join/UE75wprO] | Y | 2024-02-21 |
