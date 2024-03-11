@@ -1,1 +1,1 @@
-| PicsArt | [https://testflight.apple.com/join/d4gDz5s7] | Y | 2024-03-08 |
+| GitHub | [https://testflight.apple.com/join/NLskzwi5] | Y | 2024-03-11 |
