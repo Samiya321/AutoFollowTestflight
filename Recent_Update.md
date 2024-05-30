@@ -1,1 +1,1 @@
-| PicsArt | [https://testflight.apple.com/join/d4gDz5s7] | Y | 2024-05-06 |
+| Documents by Readdle | [https://testflight.apple.com/join/EOPEVoDA] | Y | 2024-05-30 |
