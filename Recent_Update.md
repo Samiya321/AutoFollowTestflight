@@ -1,1 +1,1 @@
-| Musixmatch Lyrics Finder | [https://testflight.apple.com/join/7yLzN5td] | Y | 2024-06-30 |
+| iSH Shell | [https://testflight.apple.com/join/97i7KM8O] | Y | 2024-06-30 |
