@@ -1,1 +1,1 @@
-| iSH Shell | [https://testflight.apple.com/join/97i7KM8O] | Y | 2024-07-07 |
+| PicsArt | [https://testflight.apple.com/join/d4gDz5s7] | Y | 2024-07-07 |
