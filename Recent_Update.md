@@ -1,1 +1,1 @@
-| Telegram Messenger | [https://testflight.apple.com/join/u6iogfd0] | Y | 2024-07-06 |
+| Musixmatch Lyrics Finder | [https://testflight.apple.com/join/7yLzN5td] | Y | 2024-07-07 |
