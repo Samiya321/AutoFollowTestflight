@@ -1,1 +1,1 @@
-| GoodNotes 5 | [https://testflight.apple.com/join/DRidxxgv] | Y | 2024-07-29 |
+| PicsArt | [https://testflight.apple.com/join/d4gDz5s7] | Y | 2024-07-29 |
