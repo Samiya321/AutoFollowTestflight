@@ -1,1 +1,1 @@
-| iSH Shell | [https://testflight.apple.com/join/97i7KM8O] | Y | 2024-07-15 |
+| GoodNotes 5 | [https://testflight.apple.com/join/DRidxxgv] | Y | 2024-07-29 |
