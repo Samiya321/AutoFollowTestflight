@@ -1,1 +1,1 @@
-| 奇点 | [https://testflight.apple.com/join/ljsb1FUS] | Y | 2024-08-08 |
+| iSH Shell | [https://testflight.apple.com/join/97i7KM8O] | Y | 2024-08-08 |

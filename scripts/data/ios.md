@@ -2,16 +2,15 @@
 
 | Name | Url | Available | Date |
 | --- | --- | --- | -- |
+| iSH Shell | [https://testflight.apple.com/join/97i7KM8O](https://testflight.apple.com/join/97i7KM8O) | Y | 2024-08-08 |
 | Sleep Cycle alarm clock | [https://testflight.apple.com/join/8RcEFqFF](https://testflight.apple.com/join/8RcEFqFF) | Y | 2024-02-06 |
 | Wikipedia | [https://testflight.apple.com/join/Z0AU0KXC](https://testflight.apple.com/join/Z0AU0KXC) | Y | 2023-09-14 |
 | MindNode - Mind Map &amp; Outline | [https://testflight.apple.com/join/hjfUVaaX](https://testflight.apple.com/join/hjfUVaaX) | Y | 2023-10-23 |
 | Documents by Readdle | [https://testflight.apple.com/join/EOPEVoDA](https://testflight.apple.com/join/EOPEVoDA) | Y | 2024-05-30 |
-| 奇点 | [https://testflight.apple.com/join/ljsb1FUS](https://testflight.apple.com/join/ljsb1FUS) | Y | 2024-08-08 |
 | GitHub | [https://testflight.apple.com/join/NLskzwi5](https://testflight.apple.com/join/NLskzwi5) | F | 2024-08-08 |
 | GoodNotes 5 | [https://testflight.apple.com/join/DRidxxgv](https://testflight.apple.com/join/DRidxxgv) | F | 2024-07-29 |
-| iSH Shell | [https://testflight.apple.com/join/97i7KM8O](https://testflight.apple.com/join/97i7KM8O) | F | 2024-08-08 |
-| Musixmatch Lyrics Finder | [https://testflight.apple.com/join/7yLzN5td](https://testflight.apple.com/join/7yLzN5td) | F | 2024-08-05 |
 | PicsArt | [https://testflight.apple.com/join/d4gDz5s7](https://testflight.apple.com/join/d4gDz5s7) | F | 2024-08-03 |
+| 奇点 | [https://testflight.apple.com/join/ljsb1FUS](https://testflight.apple.com/join/ljsb1FUS) | F | 2024-08-08 |
 | A.BIG.T IV | [https://testflight.apple.com/join/3aArQFMQ](https://testflight.apple.com/join/3aArQFMQ) | N | 2022-03-15 |
 | AdGuard | [https://testflight.apple.com/join/XqF1FkBg](https://testflight.apple.com/join/XqF1FkBg) | N | 2023-08-09 |
 | Bika CG | [https://testflight.apple.com/join/wR1gUJES](https://testflight.apple.com/join/wR1gUJES) | N | 2022-03-16 |
@@ -24,6 +23,7 @@
 | Lantern - Faster than a VPN | [https://testflight.apple.com/join/bESvTwBI](https://testflight.apple.com/join/bESvTwBI) | N | 2024-01-28 |
 | Launch Center Pro | [https://testflight.apple.com/join/DpujKg3U](https://testflight.apple.com/join/DpujKg3U) | N | 2022-03-15 |
 | Loon | [https://testflight.apple.com/join/23LA2tmX](https://testflight.apple.com/join/23LA2tmX) | N | 2022-12-22 |
+| Musixmatch Lyrics Finder | [https://testflight.apple.com/join/7yLzN5td](https://testflight.apple.com/join/7yLzN5td) | N | 2024-08-08 |
 | Nicegram | [https://testflight.apple.com/join/e07wV6pl](https://testflight.apple.com/join/e07wV6pl) | N | 2022-06-06 |
 | OpenVPN Connect | [https://testflight.apple.com/join/MFsXqm7F](https://testflight.apple.com/join/MFsXqm7F) | N | 2022-11-26 |
 | PDF Expert: PDF Editor | [https://testflight.apple.com/join/UE75wprO](https://testflight.apple.com/join/UE75wprO) | N | 2024-02-27 |
