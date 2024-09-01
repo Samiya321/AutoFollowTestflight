@@ -1,1 +1,1 @@
-| IFTTT | [https://testflight.apple.com/join/Lgmzxy7Y] | Y | 2024-08-30 |
+| GitHub | [https://testflight.apple.com/join/NLskzwi5] | Y | 2024-09-01 |
