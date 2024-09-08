@@ -1,1 +1,1 @@
-| Documents by Readdle | [https://testflight.apple.com/join/EOPEVoDA] | Y | 2024-09-06 |
+| GitHub | [https://testflight.apple.com/join/NLskzwi5] | Y | 2024-09-08 |
