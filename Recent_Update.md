@@ -1,1 +1,1 @@
-| 奇点 | [https://testflight.apple.com/join/ljsb1FUS] | Y | 2024-09-19 |
+| MindNode - Mind Map &amp; Outline | [https://testflight.apple.com/join/hjfUVaaX] | Y | 2024-09-19 |
