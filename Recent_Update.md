@@ -1,1 +1,1 @@
-| MindNode - Mind Map &amp; Outline | [https://testflight.apple.com/join/hjfUVaaX] | Y | 2024-09-19 |
+| PicsArt | [https://testflight.apple.com/join/d4gDz5s7] | Y | 2024-09-20 |
